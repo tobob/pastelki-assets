@@ -1,0 +1,50 @@
+# Refreshes the repository from the public Pastelki library (https://pastelki.club/api/library).
+# Runs every day, on demand, and on a `pastelki-updated` repository_dispatch event.
+# Commits to main only when something changed and every SVG renders. No secrets needed — the API is public.
+name: Sync from pastelki.club
+
+on:
+  schedule:
+    - cron: '41 4 * * *'
+  workflow_dispatch:
+  repository_dispatch:
+    types: [pastelki-updated]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Sync
+        id: sync
+        run: |
+          python3 scripts/sync.py | tee sync.log
+          if [ -z "$(git status --porcelain -- svg catalog.json catalog.csv gallery README.md)" ]; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+      - name: Validate SVGs
+        if: steps.sync.outputs.changed == 'true'
+        run: npm install --no-audit --no-fund && npm run validate
+      - name: Commit
+        if: steps.sync.outputs.changed == 'true'
+        run: |
+          git config user.name "pastelki-sync[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A svg catalog.json catalog.csv gallery README.md
+          git commit -m "Sync pictures from pastelki.club" -m "$(head -60 sync.log)"
+          git push

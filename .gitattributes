@@ -1,0 +1,11 @@
+# SVG pictures are text: normalise line endings, show real diffs
+*.svg text eol=lf diff=xml linguist-generated=false
+*.json text eol=lf
+*.csv text eol=lf
+*.md text eol=lf
+*.py text eol=lf
+*.mjs text eol=lf
+# generated metadata: collapse in pull-request diffs
+catalog.json linguist-generated=true
+catalog.csv linguist-generated=true
+gallery/*.md linguist-generated=true
