@@ -5,6 +5,10 @@
   "source": "https://pastelki.club/api/library",
   "license": "MIT",
   "copyright": "Copyright (c) 2026 Pastelki (pastelki.club)",
+  "license_files": [
+    "LICENSE",
+    "NOTICE.md"
+  ],
   "languages": [
     "pl",
     "en",
@@ -492,7 +496,7 @@
       "slug": "buzka-psa",
       "title": {
         "pl": "buźka psa",
-        "en": "Dog face",
+        "en": "dog face",
         "de": "Hundegesicht",
         "fr": "Tête de chien",
         "es": "Cara de perro",
@@ -642,7 +646,7 @@
       "slug": "kapibara",
       "title": {
         "pl": "kapibara",
-        "en": "Capybara",
+        "en": "capybara",
         "de": "Wasserschwein",
         "fr": "Capybara",
         "es": "Capibara",
@@ -756,7 +760,7 @@
       "slug": "mors",
       "title": {
         "pl": "mors",
-        "en": "Walrus",
+        "en": "walrus",
         "de": "Walross",
         "fr": "Morse",
         "es": "Morsa",
@@ -798,7 +802,7 @@
       "slug": "pingwin",
       "title": {
         "pl": "pingwin",
-        "en": "Penguin",
+        "en": "penguin",
         "de": "Pinguin",
         "fr": "Pingouin",
         "es": "Pingüino",
@@ -912,7 +916,7 @@
       "slug": "dinozaur-z-dluga-szyja",
       "title": {
         "pl": "dinozaur z długą szyją",
-        "en": "Long-neck dinosaur",
+        "en": "long-neck dinosaur",
         "de": "Langhals-Dino",
         "fr": "Dinosaure à long cou",
         "es": "Dinosaurio de cuello largo",
@@ -954,7 +958,7 @@
       "slug": "jajko-dinozaura",
       "title": {
         "pl": "jajko dinozaura",
-        "en": "Dinosaur egg",
+        "en": "dinosaur egg",
         "de": "Dinosaurier-Ei",
         "fr": "Œuf de dinosaure",
         "es": "Huevo de dinosaurio",
@@ -1125,7 +1129,7 @@
       "slug": "triceratops",
       "title": {
         "pl": "triceratops",
-        "en": "Triceratops",
+        "en": "triceratops",
         "de": "Triceratops",
         "fr": "Tricératops",
         "es": "Triceratops",
@@ -1167,7 +1171,7 @@
       "slug": "tyranozaur",
       "title": {
         "pl": "tyranozaur",
-        "en": "Friendly T-rex",
+        "en": "friendly T-rex",
         "de": "Lieber T-Rex",
         "fr": "Gentil T-rex",
         "es": "T-rex simpático",
@@ -1389,7 +1393,7 @@
       "slug": "kapibara-w-kapieli",
       "title": {
         "pl": "kapibara w kąpieli",
-        "en": "Capybara in the bath",
+        "en": "capybara in the bath",
         "de": "Wasserschwein in der Badewanne",
         "fr": "Capybara dans le bain",
         "es": "Capibara en la bañera",
@@ -1468,7 +1472,7 @@
       "slug": "kropla-miodu-na-lyzeczce",
       "title": {
         "pl": "kropla miodu na łyżeczce",
-        "en": "Honey dipper",
+        "en": "honey dipper",
         "de": "Honiglöffel mit Tropfen",
         "fr": "Cuillère à miel",
         "es": "Cuchara de miel",
@@ -1710,22 +1714,22 @@
       "slug": "smoczek",
       "title": {
         "pl": "smoczek",
-        "en": "Little dragon",
-        "de": "Little dragon",
-        "fr": "Little dragon",
-        "es": "Little dragon",
-        "it": "Little dragon",
-        "pt": "Little dragon",
-        "nl": "Little dragon",
-        "uk": "Little dragon",
-        "cs": "Little dragon",
-        "sk": "Little dragon",
-        "sv": "Little dragon",
-        "ro": "Little dragon",
-        "hu": "Little dragon",
-        "tr": "Little dragon",
-        "ja": "Little dragon",
-        "zh": "Little dragon"
+        "en": "little dragon",
+        "de": "little dragon",
+        "fr": "little dragon",
+        "es": "little dragon",
+        "it": "little dragon",
+        "pt": "little dragon",
+        "nl": "little dragon",
+        "uk": "little dragon",
+        "cs": "little dragon",
+        "sk": "little dragon",
+        "sv": "little dragon",
+        "ro": "little dragon",
+        "hu": "little dragon",
+        "tr": "little dragon",
+        "ja": "little dragon",
+        "zh": "little dragon"
       },
       "category": "dom",
       "tags_pl": [
@@ -1975,7 +1979,7 @@
       "slug": "doghouse",
       "title": {
         "pl": "buda",
-        "en": "Doghouse",
+        "en": "doghouse",
         "de": "Hundehütte",
         "fr": "Niche de chien",
         "es": "Caseta del perro",
@@ -2131,7 +2135,7 @@
       "slug": "kennel-bowl",
       "title": {
         "pl": "miska",
-        "en": "Pet bowl",
+        "en": "pet bowl",
         "de": "Napf",
         "fr": "Gamelle",
         "es": "Cuenco",
@@ -2174,7 +2178,7 @@
       "slug": "kominek",
       "title": {
         "pl": "kominek",
-        "en": "Fireplace",
+        "en": "fireplace",
         "de": "Kamin",
         "fr": "Cheminée",
         "es": "Chimenea",
@@ -2337,7 +2341,7 @@
       "slug": "zamek-z-piasku",
       "title": {
         "pl": "zamek z piasku",
-        "en": "Sandcastle",
+        "en": "sandcastle",
         "de": "Sandburg",
         "fr": "Château de sable",
         "es": "Castillo de arena",
@@ -2422,7 +2426,7 @@
       "slug": "pingwinek-na-lodzie",
       "title": {
         "pl": "pingwinek na lodzie",
-        "en": "Penguin on the ice",
+        "en": "penguin on the ice",
         "de": "Pinguin auf dem Eis",
         "fr": "Pingouin sur la glace",
         "es": "Pingüino en el hielo",
@@ -2465,7 +2469,7 @@
       "slug": "pingwinek-z-kokardka",
       "title": {
         "pl": "pingwinek z kokardką",
-        "en": "Penguin with a bow",
+        "en": "penguin with a bow",
         "de": "Pinguin mit Schleife",
         "fr": "Pingouin avec un nœud",
         "es": "Pingüino con lazo",
@@ -2550,7 +2554,7 @@
       "slug": "spiaca-buzia",
       "title": {
         "pl": "śpiąca buzia",
-        "en": "Sleepy face",
+        "en": "sleepy face",
         "de": "Müdes Gesicht",
         "fr": "Visage endormi",
         "es": "Carita dormida",
@@ -2635,7 +2639,7 @@
       "slug": "usmiechnieta-chmurka",
       "title": {
         "pl": "uśmiechnięta chmurka",
-        "en": "Happy cloud",
+        "en": "happy cloud",
         "de": "Fröhliche Wolke",
         "fr": "Nuage souriant",
         "es": "Nubecita feliz",
@@ -2720,7 +2724,7 @@
       "slug": "zaskoczona-buzia-z-kropkami",
       "title": {
         "pl": "zaskoczona buzia z kropkami",
-        "en": "Giggling face",
+        "en": "giggling face",
         "de": "Kicherndes Gesicht",
         "fr": "Visage qui rit",
         "es": "Carita risueña",
@@ -2805,7 +2809,7 @@
       "slug": "zla-buzia",
       "title": {
         "pl": "zła buzia",
-        "en": "Angry face",
+        "en": "angry face",
         "de": "Wütendes Gesicht",
         "fr": "Visage fâché",
         "es": "Cara enfadada",
@@ -2847,7 +2851,7 @@
       "slug": "ananas",
       "title": {
         "pl": "ananas",
-        "en": "Pineapple",
+        "en": "pineapple",
         "de": "Ananas",
         "fr": "ananas",
         "es": "piña",
@@ -3555,7 +3559,7 @@
       "slug": "lody-w-rozku",
       "title": {
         "pl": "lody w rożku",
-        "en": "Ice cream cone",
+        "en": "ice cream cone",
         "de": "Eis in der Waffel",
         "fr": "glace au cornet",
         "es": "helado de cucurucho",
@@ -3783,7 +3787,7 @@
       "slug": "pierogi",
       "title": {
         "pl": "pierogi",
-        "en": "Dumpling",
+        "en": "dumpling",
         "de": "Teigtasche",
         "fr": "Raviole",
         "es": "Empanadilla",
@@ -3940,7 +3944,7 @@
       "slug": "sandwich",
       "title": {
         "pl": "kanapka",
-        "en": "Sandwich",
+        "en": "sandwich",
         "de": "Sandwich",
         "fr": "Sandwich",
         "es": "Sándwich",
@@ -4091,7 +4095,7 @@
       "slug": "astronauta-mis",
       "title": {
         "pl": "astronauta-miś",
-        "en": "Astronaut teddy bear",
+        "en": "astronaut teddy bear",
         "de": "Astronaut-Teddybär",
         "fr": "Ourson astronaute",
         "es": "Osito astronauta",
@@ -4133,7 +4137,7 @@
       "slug": "gwiazda-polarna",
       "title": {
         "pl": "gwiazda polarna",
-        "en": "Bright star",
+        "en": "bright star",
         "de": "Leuchtender Stern",
         "fr": "L'étoile brillante",
         "es": "La estrella brillante",
@@ -4259,7 +4263,7 @@
       "slug": "helm-astronauty",
       "title": {
         "pl": "hełm astronauty",
-        "en": "Space helmet",
+        "en": "space helmet",
         "de": "Astronautenhelm",
         "fr": "Casque d'astronaute",
         "es": "Casco de astronauta",
@@ -4343,7 +4347,7 @@
       "slug": "ksiezycowy-lazik",
       "title": {
         "pl": "księżycowy łazik",
-        "en": "Moon rover",
+        "en": "moon rover",
         "de": "Mondauto",
         "fr": "Rover lunaire",
         "es": "Rover lunar",
@@ -4385,7 +4389,7 @@
       "slug": "maly-kosmita",
       "title": {
         "pl": "mały kosmita",
-        "en": "Little alien",
+        "en": "little alien",
         "de": "Kleiner Außerirdischer",
         "fr": "Petit extraterrestre",
         "es": "Pequeño extraterrestre",
@@ -4597,7 +4601,7 @@
       "slug": "ziemia",
       "title": {
         "pl": "ziemia",
-        "en": "Planet Earth",
+        "en": "planet Earth",
         "de": "Erde",
         "fr": "La Terre",
         "es": "La Tierra",
@@ -4676,7 +4680,7 @@
       "slug": "cielatko",
       "title": {
         "pl": "cielątko",
-        "en": "Little calf",
+        "en": "little calf",
         "de": "Kälbchen",
         "fr": "Petit veau",
         "es": "Ternerito",
@@ -4755,7 +4759,7 @@
       "slug": "dzik",
       "title": {
         "pl": "dzik",
-        "en": "Baby wild boar",
+        "en": "baby wild boar",
         "de": "Frischling",
         "fr": "Bébé sanglier",
         "es": "Jabato",
@@ -4798,7 +4802,7 @@
       "slug": "foka-maluch",
       "title": {
         "pl": "foka maluch",
-        "en": "Baby seal",
+        "en": "baby seal",
         "de": "Robbenbaby",
         "fr": "Bébé phoque",
         "es": "Foquita",
@@ -4841,7 +4845,7 @@
       "slug": "jezyk",
       "title": {
         "pl": "jeżyk",
-        "en": "Baby hedgehog",
+        "en": "baby hedgehog",
         "de": "Igelbaby",
         "fr": "Bébé hérisson",
         "es": "Erizo bebé",
@@ -4883,7 +4887,7 @@
       "slug": "kaczuszka-z-mama",
       "title": {
         "pl": "kaczuszka z mamą",
-        "en": "Duckling with mama",
+        "en": "duckling with mama",
         "de": "Entenküken mit Mama",
         "fr": "Caneton avec maman",
         "es": "Patito con mamá",
@@ -4998,7 +5002,7 @@
       "slug": "mlode-lisiatko",
       "title": {
         "pl": "młode lisiątko",
-        "en": "Fox cub",
+        "en": "fox cub",
         "de": "Fuchsbaby",
         "fr": "Bébé renard",
         "es": "Zorrito",
@@ -5041,7 +5045,7 @@
       "slug": "pluszowy-zajac",
       "title": {
         "pl": "pluszowy zając",
-        "en": "Plush bunny",
+        "en": "plush bunny",
         "de": "Plüschhase",
         "fr": "Lapin en peluche",
         "es": "Conejito de peluche",
@@ -5161,7 +5165,7 @@
       "slug": "zrebaczek",
       "title": {
         "pl": "źrebaczek",
-        "en": "Foal",
+        "en": "foal",
         "de": "Fohlen",
         "fr": "Poulain",
         "es": "Potrillo",
@@ -5204,7 +5208,7 @@
       "slug": "kalamarnica",
       "title": {
         "pl": "kałamarnica",
-        "en": "Squid",
+        "en": "squid",
         "de": "Tintenfisch",
         "fr": "Calmar",
         "es": "Calamar",
@@ -5246,7 +5250,7 @@
       "slug": "konik-morski",
       "title": {
         "pl": "konik morski",
-        "en": "Seahorse",
+        "en": "seahorse",
         "de": "Seepferdchen",
         "fr": "Hippocampe",
         "es": "Caballito de mar",
@@ -5288,7 +5292,7 @@
       "slug": "krewetka",
       "title": {
         "pl": "krewetka",
-        "en": "Shrimp",
+        "en": "shrimp",
         "de": "Garnele",
         "fr": "Crevette",
         "es": "Camarón",
@@ -5330,7 +5334,7 @@
       "slug": "meduza",
       "title": {
         "pl": "meduza",
-        "en": "Jellyfish",
+        "en": "jellyfish",
         "de": "Qualle",
         "fr": "Méduse",
         "es": "Medusa",
@@ -5372,7 +5376,7 @@
       "slug": "mewa",
       "title": {
         "pl": "mewa",
-        "en": "Seagull",
+        "en": "seagull",
         "de": "Möwe",
         "fr": "Mouette",
         "es": "Gaviota",
@@ -5415,7 +5419,7 @@
       "slug": "mors-2",
       "title": {
         "pl": "mors",
-        "en": "Walrus",
+        "en": "walrus",
         "de": "Walross",
         "fr": "Morse",
         "es": "Morsa",
@@ -5458,7 +5462,7 @@
       "slug": "narwal",
       "title": {
         "pl": "narwal",
-        "en": "Narwhal",
+        "en": "narwhal",
         "de": "Narwal",
         "fr": "Narval",
         "es": "Narval",
@@ -5500,7 +5504,7 @@
       "slug": "rak-pustelnik",
       "title": {
         "pl": "rak pustelnik",
-        "en": "Hermit crab",
+        "en": "hermit crab",
         "de": "Einsiedlerkrebs",
         "fr": "Bernard-l'ermite",
         "es": "Cangrejo ermitaño",
@@ -5585,7 +5589,7 @@
       "slug": "rozgwiazda",
       "title": {
         "pl": "rozgwiazda",
-        "en": "Starfish",
+        "en": "starfish",
         "de": "Seestern",
         "fr": "Étoile de mer",
         "es": "Estrella de mar",
@@ -5628,7 +5632,7 @@
       "slug": "statek",
       "title": {
         "pl": "statek",
-        "en": "Ship",
+        "en": "ship",
         "de": "Schiff",
         "fr": "Bateau",
         "es": "Barco",
@@ -5670,7 +5674,7 @@
       "slug": "zolw-morski",
       "title": {
         "pl": "żółw morski",
-        "en": "Sea turtle",
+        "en": "sea turtle",
         "de": "Meeresschildkröte",
         "fr": "Tortue de mer",
         "es": "Tortuga marina",
@@ -5754,7 +5758,7 @@
       "slug": "bebenek-tamburyn",
       "title": {
         "pl": "bębenek tamburyn",
-        "en": "Tambourine",
+        "en": "tambourine",
         "de": "Tamburin",
         "fr": "Tambourin",
         "es": "Pandereta",
@@ -5839,7 +5843,7 @@
       "slug": "flet",
       "title": {
         "pl": "flet",
-        "en": "Flute",
+        "en": "flute",
         "de": "Flöte",
         "fr": "Flûte",
         "es": "Flauta",
@@ -6361,7 +6365,7 @@
       "slug": "kaktus",
       "title": {
         "pl": "kaktus",
-        "en": "Cactus in a pot",
+        "en": "cactus in a pot",
         "de": "Kaktus im Topf",
         "fr": "Cactus en pot",
         "es": "Cactus en maceta",
@@ -6697,22 +6701,22 @@
       "slug": "slonecznik",
       "title": {
         "pl": "słonecznik",
-        "en": "Sunflower",
-        "de": "Sunflower",
-        "fr": "Sunflower",
-        "es": "Sunflower",
-        "it": "Sunflower",
-        "pt": "Sunflower",
-        "nl": "Sunflower",
-        "uk": "Sunflower",
-        "cs": "Sunflower",
-        "sk": "Sunflower",
-        "sv": "Sunflower",
-        "ro": "Sunflower",
-        "hu": "Sunflower",
-        "tr": "Sunflower",
-        "ja": "Sunflower",
-        "zh": "Sunflower"
+        "en": "sunflower",
+        "de": "sunflower",
+        "fr": "sunflower",
+        "es": "sunflower",
+        "it": "sunflower",
+        "pt": "sunflower",
+        "nl": "sunflower",
+        "uk": "sunflower",
+        "cs": "sunflower",
+        "sk": "sunflower",
+        "sv": "sunflower",
+        "ro": "sunflower",
+        "hu": "sunflower",
+        "tr": "sunflower",
+        "ja": "sunflower",
+        "zh": "sunflower"
       },
       "category": "natura",
       "tags_pl": [
@@ -6812,7 +6816,7 @@
       "slug": "stokrotka",
       "title": {
         "pl": "stokrotka",
-        "en": "Daisy",
+        "en": "daisy",
         "de": "Gänseblümchen",
         "fr": "Pâquerette",
         "es": "Margarita",
@@ -6926,22 +6930,22 @@
       "slug": "tulipan",
       "title": {
         "pl": "tulipan",
-        "en": "Tulip",
-        "de": "Tulip",
-        "fr": "Tulip",
-        "es": "Tulip",
-        "it": "Tulip",
-        "pt": "Tulip",
-        "nl": "Tulip",
-        "uk": "Tulip",
-        "cs": "Tulip",
-        "sk": "Tulip",
-        "sv": "Tulip",
-        "ro": "Tulip",
-        "hu": "Tulip",
-        "tr": "Tulip",
-        "ja": "Tulip",
-        "zh": "Tulip"
+        "en": "tulip",
+        "de": "tulip",
+        "fr": "tulip",
+        "es": "tulip",
+        "it": "tulip",
+        "pt": "tulip",
+        "nl": "tulip",
+        "uk": "tulip",
+        "cs": "tulip",
+        "sk": "tulip",
+        "sv": "tulip",
+        "ro": "tulip",
+        "hu": "tulip",
+        "tr": "tulip",
+        "ja": "tulip",
+        "zh": "tulip"
       },
       "category": "natura",
       "tags_pl": [
@@ -6968,7 +6972,7 @@
       "slug": "biedronka-na-lisciu",
       "title": {
         "pl": "biedronka na liściu",
-        "en": "Ladybug on a leaf",
+        "en": "ladybug on a leaf",
         "de": "Marienkäfer auf einem Blatt",
         "fr": "Coccinelle sur une feuille",
         "es": "Mariquita en una hoja",
@@ -7010,7 +7014,7 @@
       "slug": "gasienica",
       "title": {
         "pl": "gąsienica",
-        "en": "Caterpillar",
+        "en": "caterpillar",
         "de": "Raupe",
         "fr": "Chenille",
         "es": "Oruga",
@@ -7095,7 +7099,7 @@
       "slug": "motyl-na-kwiatku",
       "title": {
         "pl": "motyl na kwiatku",
-        "en": "Butterfly on a flower",
+        "en": "butterfly on a flower",
         "de": "Schmetterling auf einer Blume",
         "fr": "Papillon sur une fleur",
         "es": "Mariposa en una flor",
@@ -7137,7 +7141,7 @@
       "slug": "mrowka",
       "title": {
         "pl": "mrówka",
-        "en": "Ant",
+        "en": "ant",
         "de": "Ameise",
         "fr": "Fourmi",
         "es": "Hormiga",
@@ -7179,7 +7183,7 @@
       "slug": "osa",
       "title": {
         "pl": "osa",
-        "en": "Wasp",
+        "en": "wasp",
         "de": "Wespe",
         "fr": "Guêpe",
         "es": "Avispa",
@@ -7222,7 +7226,7 @@
       "slug": "pajak",
       "title": {
         "pl": "pająk",
-        "en": "Spider",
+        "en": "spider",
         "de": "Spinne",
         "fr": "Araignée",
         "es": "Araña",
@@ -7265,7 +7269,7 @@
       "slug": "pszczolka-na-kwiatku",
       "title": {
         "pl": "pszczółka na kwiatku",
-        "en": "Bee on a flower",
+        "en": "bee on a flower",
         "de": "Biene auf der Blume",
         "fr": "Abeille sur une fleur",
         "es": "Abejita en una flor",
@@ -7307,7 +7311,7 @@
       "slug": "swietlik",
       "title": {
         "pl": "świetlik",
-        "en": "Firefly",
+        "en": "firefly",
         "de": "Glühwürmchen",
         "fr": "Luciole",
         "es": "Luciérnaga",
@@ -7349,7 +7353,7 @@
       "slug": "wazka",
       "title": {
         "pl": "ważka",
-        "en": "Dragonfly",
+        "en": "dragonfly",
         "de": "Libelle",
         "fr": "Libellule",
         "es": "Libélula",
@@ -7392,7 +7396,7 @@
       "slug": "zaba-na-lisciu-lilii",
       "title": {
         "pl": "żaba na liściu lilii",
-        "en": "Frog on a lily pad",
+        "en": "frog on a lily pad",
         "de": "Frosch auf dem Seerosenblatt",
         "fr": "Grenouille sur un nénuphar",
         "es": "Rana sobre un nenúfar",
@@ -7435,7 +7439,7 @@
       "slug": "zuk",
       "title": {
         "pl": "żuk",
-        "en": "Little beetle",
+        "en": "little beetle",
         "de": "Käferchen",
         "fr": "Le petit scarabée",
         "es": "Escarabajo",
@@ -7664,22 +7668,22 @@
       "slug": "helikopter",
       "title": {
         "pl": "helikopter",
-        "en": "Helicopter",
-        "de": "Helicopter",
-        "fr": "Helicopter",
-        "es": "Helicopter",
-        "it": "Helicopter",
-        "pt": "Helicopter",
-        "nl": "Helicopter",
-        "uk": "Helicopter",
-        "cs": "Helicopter",
-        "sk": "Helicopter",
-        "sv": "Helicopter",
-        "ro": "Helicopter",
-        "hu": "Helicopter",
-        "tr": "Helicopter",
-        "ja": "Helicopter",
-        "zh": "Helicopter"
+        "en": "helicopter",
+        "de": "helicopter",
+        "fr": "helicopter",
+        "es": "helicopter",
+        "it": "helicopter",
+        "pt": "helicopter",
+        "nl": "helicopter",
+        "uk": "helicopter",
+        "cs": "helicopter",
+        "sk": "helicopter",
+        "sv": "helicopter",
+        "ro": "helicopter",
+        "hu": "helicopter",
+        "tr": "helicopter",
+        "ja": "helicopter",
+        "zh": "helicopter"
       },
       "category": "pojazdy",
       "tags_pl": [
@@ -7868,7 +7872,7 @@
       "slug": "tramwaj",
       "title": {
         "pl": "tramwaj",
-        "en": "Tram",
+        "en": "tram",
         "de": "Straßenbahn",
         "fr": "Tramway",
         "es": "Tranvía",
@@ -7995,7 +7999,7 @@
       "slug": "zaglowka",
       "title": {
         "pl": "żaglówka",
-        "en": "Sailboat",
+        "en": "sailboat",
         "de": "Segelboot",
         "fr": "Voilier",
         "es": "Velero",
@@ -8080,7 +8084,7 @@
       "slug": "dzwonek-rowerowy",
       "title": {
         "pl": "dzwonek rowerowy",
-        "en": "Bicycle bell",
+        "en": "bicycle bell",
         "de": "Fahrradklingel",
         "fr": "Sonnette de vélo",
         "es": "Timbre de bicicleta",
@@ -8207,7 +8211,7 @@
       "slug": "koparka-piaskowa",
       "title": {
         "pl": "koparka piaskowa",
-        "en": "Toy digger",
+        "en": "toy digger",
         "de": "Spielzeugbagger",
         "fr": "Pelleteuse jouet",
         "es": "Excavadora de juguete",
@@ -8376,7 +8380,7 @@
       "slug": "pilka-plazowa",
       "title": {
         "pl": "piłka plażowa",
-        "en": "Beach ball",
+        "en": "beach ball",
         "de": "Wasserball",
         "fr": "Ballon de plage",
         "es": "Pelota de playa",
@@ -8418,7 +8422,7 @@
       "slug": "rolki",
       "title": {
         "pl": "rolki",
-        "en": "Roller skate",
+        "en": "roller skate",
         "de": "Rollschuh",
         "fr": "Patin à roulettes",
         "es": "Patín",
@@ -8461,7 +8465,7 @@
       "slug": "rower-biegowy",
       "title": {
         "pl": "rower biegowy",
-        "en": "Balance bike",
+        "en": "balance bike",
         "de": "Laufrad",
         "fr": "Draisienne",
         "es": "Bici sin pedales",
@@ -8588,7 +8592,7 @@
       "slug": "balony",
       "title": {
         "pl": "balony",
-        "en": "Balloons",
+        "en": "balloons",
         "de": "Luftballons",
         "fr": "Ballons",
         "es": "Globos",
@@ -8843,7 +8847,7 @@
       "slug": "krasnoludek",
       "title": {
         "pl": "krasnoludek",
-        "en": "Garden gnome",
+        "en": "garden gnome",
         "de": "Gartenzwerg",
         "fr": "Le gnome",
         "es": "El gnomo",
@@ -9126,7 +9130,7 @@
       "slug": "kapelusz-slomkowy",
       "title": {
         "pl": "kapelusz słomkowy",
-        "en": "Straw hat",
+        "en": "straw hat",
         "de": "Strohhut",
         "fr": "Chapeau de paille",
         "es": "Sombrero de paja",
@@ -9169,7 +9173,7 @@
       "slug": "kombinezon",
       "title": {
         "pl": "kombinezon",
-        "en": "Romper",
+        "en": "romper",
         "de": "Strampler",
         "fr": "Barboteuse",
         "es": "Pelele",
@@ -9519,7 +9523,7 @@
       "slug": "sweter",
       "title": {
         "pl": "sweter",
-        "en": "Sweater with a heart",
+        "en": "sweater with a heart",
         "de": "Pullover mit Herz",
         "fr": "Pull avec un cœur",
         "es": "Jersey con corazón",
@@ -9976,7 +9980,7 @@
       "slug": "krasnoludek-2",
       "title": {
         "pl": "krasnoludek",
-        "en": "Little gnome",
+        "en": "little gnome",
         "de": "Wichtel",
         "fr": "Petit gnome",
         "es": "Gnomito",
@@ -10138,7 +10142,7 @@
       "slug": "snowman",
       "title": {
         "pl": "bałwanek",
-        "en": "Snowman",
+        "en": "snowman",
         "de": "Schneemann",
         "fr": "Bonhomme de neige",
         "es": "Muñeco de nieve",
@@ -10217,7 +10221,7 @@
       "slug": "zolta-kaczka-na-kolkach",
       "title": {
         "pl": "żółta kaczka na kółkach",
-        "en": "Pull-along duck",
+        "en": "pull-along duck",
         "de": "Ziehente auf Rädern",
         "fr": "Canard à roulettes",
         "es": "Patito con ruedas",
@@ -10260,7 +10264,7 @@
       "slug": "zolty-kubeczek-z-kaczuszka",
       "title": {
         "pl": "żółty kubeczek z kaczuszką",
-        "en": "Yellow duck cup",
+        "en": "yellow duck cup",
         "de": "Gelber Becher mit Entchen",
         "fr": "Gobelet jaune avec canard",
         "es": "Vasito amarillo con patito",
@@ -10345,7 +10349,7 @@
       "slug": "bazant",
       "title": {
         "pl": "bażant",
-        "en": "Pheasant",
+        "en": "pheasant",
         "de": "Fasan",
         "fr": "Faisan",
         "es": "Faisán",
@@ -10496,7 +10500,7 @@
       "slug": "bobr",
       "title": {
         "pl": "bóbr",
-        "en": "Beaver",
+        "en": "beaver",
         "de": "Biber",
         "fr": "Castor",
         "es": "Castor",
@@ -10575,7 +10579,7 @@
       "slug": "buzka-psa-2",
       "title": {
         "pl": "buźka psa",
-        "en": "Puppy",
+        "en": "puppy",
         "de": "Hündchen",
         "fr": "Petit chien",
         "es": "Perrito",
@@ -10840,7 +10844,7 @@
       "slug": "dynia",
       "title": {
         "pl": "dynia",
-        "en": "Pumpkin",
+        "en": "pumpkin",
         "de": "Kürbis",
         "fr": "Citrouille",
         "es": "Calabaza",
@@ -10882,7 +10886,7 @@
       "slug": "dzieciol",
       "title": {
         "pl": "dzięcioł",
-        "en": "Woodpecker",
+        "en": "woodpecker",
         "de": "Specht",
         "fr": "Pic-vert",
         "es": "Pájaro carpintero",
@@ -11298,7 +11302,7 @@
       "slug": "kangur",
       "title": {
         "pl": "kangur",
-        "en": "Kangaroo",
+        "en": "kangaroo",
         "de": "Känguru",
         "fr": "Kangourou",
         "es": "Canguro",
@@ -11340,7 +11344,7 @@
       "slug": "kapibara-2",
       "title": {
         "pl": "kapibara",
-        "en": "Capybara",
+        "en": "capybara",
         "de": "Wasserschwein",
         "fr": "Capybara",
         "es": "Capibara",
@@ -11424,7 +11428,7 @@
       "slug": "kogut",
       "title": {
         "pl": "kogut",
-        "en": "Rooster",
+        "en": "rooster",
         "de": "Hahn",
         "fr": "Le coq",
         "es": "El gallo",
@@ -11467,7 +11471,7 @@
       "slug": "konik-polny-2",
       "title": {
         "pl": "konik polny",
-        "en": "Grasshopper",
+        "en": "grasshopper",
         "de": "Grashüpfer",
         "fr": "Sauterelle",
         "es": "Saltamontes",
@@ -11595,7 +11599,7 @@
       "slug": "krowa",
       "title": {
         "pl": "krowa",
-        "en": "Cow",
+        "en": "cow",
         "de": "Kuh",
         "fr": "Vache",
         "es": "Vaca",
@@ -11637,7 +11641,7 @@
       "slug": "ladybug",
       "title": {
         "pl": "biedronka",
-        "en": "Ladybug",
+        "en": "ladybug",
         "de": "Marienkäfer",
         "fr": "Coccinelle",
         "es": "Mariquita",
@@ -11679,7 +11683,7 @@
       "slug": "lew",
       "title": {
         "pl": "lew",
-        "en": "Lion",
+        "en": "lion",
         "de": "Löwe",
         "fr": "Lion",
         "es": "León",
@@ -11722,7 +11726,7 @@
       "slug": "malpka",
       "title": {
         "pl": "małpka",
-        "en": "Monkey",
+        "en": "monkey",
         "de": "Äffchen",
         "fr": "Petit singe",
         "es": "Monito",
@@ -11801,7 +11805,7 @@
       "slug": "octopus",
       "title": {
         "pl": "ośmiornica",
-        "en": "Octopus",
+        "en": "octopus",
         "de": "Krake",
         "fr": "Pieuvre",
         "es": "Pulpo",
@@ -12145,7 +12149,7 @@
       "slug": "slon",
       "title": {
         "pl": "słoń",
-        "en": "Elephant",
+        "en": "elephant",
         "de": "Elefant",
         "fr": "Éléphant",
         "es": "Elefante",
@@ -12295,7 +12299,7 @@
       "slug": "tygrys",
       "title": {
         "pl": "tygrys",
-        "en": "Tiger",
+        "en": "tiger",
         "de": "Tiger",
         "fr": "Tigre",
         "es": "Tigre",
@@ -12410,7 +12414,7 @@
       "slug": "zebra-2",
       "title": {
         "pl": "zebra",
-        "en": "Zebra",
+        "en": "zebra",
         "de": "Zebra",
         "fr": "Zèbre",
         "es": "Cebra",
@@ -12453,7 +12457,7 @@
       "slug": "zlota-rybka",
       "title": {
         "pl": "złota rybka",
-        "en": "Goldfish",
+        "en": "goldfish",
         "de": "Goldfisch",
         "fr": "Poisson rouge",
         "es": "Pez dorado",
@@ -12495,7 +12499,7 @@
       "slug": "zyrafa-maluch-z-kokardka",
       "title": {
         "pl": "żyrafa maluch z kokardką",
-        "en": "Baby giraffe with a bow",
+        "en": "baby giraffe with a bow",
         "de": "Giraffenbaby mit Schleife",
         "fr": "Bébé girafe avec un nœud",
         "es": "Jirafa bebé con lazo",

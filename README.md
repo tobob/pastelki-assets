@@ -32,6 +32,7 @@ data/categories.json        category names in 17 languages
 gallery/                    preview pages, one per category
 scripts/sync.py             refreshes the repository from the public pastelki.club API
 scripts/render-png.mjs      renders PNGs at any size
+LICENSE, NOTICE.md          MIT license + the additional permission
 ```
 
 Languages in the catalog: `pl en de fr es it pt nl uk cs sk sv ro hu tr ja zh`. Tags (`tags_pl`) are in Polish.
@@ -93,12 +94,12 @@ e.g. `rsvg-convert -w 512 cat.svg -o cat.png` or `inkscape cat.svg -w 512 -o cat
 ## License and attribution
 
 The pictures are released under the [MIT license](LICENSE) — © 2026 Pastelki ([pastelki.club](https://pastelki.club)) —
-with an **additional permission**:
+with an **[additional permission](NOTICE.md)**:
 
 - **Using a picture inside your own work** (a picture book, print, poster, worksheet, app, game, website, video,
   classroom material…), personal or commercial: you **don't** need to show the license or credit anyone.
 - **Redistributing the files themselves** (for example as a downloadable asset pack, or on a stock site): include the
-  [LICENSE](LICENSE) file, and please link back to the source, [pastelki.club](https://pastelki.club).
+  [LICENSE](LICENSE) and [NOTICE.md](NOTICE.md) files, and please link back to the source, [pastelki.club](https://pastelki.club).
   Don't present the pictures as your own stock collection or claim exclusive rights to them.
 
 You may edit, crop, combine and recolour them as much as you like. The pictures are provided "as is", without any

@@ -161,6 +161,7 @@ def build(library: dict) -> tuple[dict[str, bytes], dict[str, bytes]]:
         "source": f"{BASE}/api/library",
         "license": LICENSE,
         "copyright": "Copyright (c) 2026 Pastelki (pastelki.club)",
+        "license_files": ["LICENSE", "NOTICE.md"],  # MIT + the additional permission (no credit needed in your works)
         "languages": LANGS,
         "count": len(entries),
         "categories": categories,
