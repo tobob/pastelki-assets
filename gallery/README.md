@@ -8,17 +8,17 @@
 | [Baby animals](maluchy.md) | Zwierzęce maluchy | 14 |
 | [Animal faces](buzki.md) | Zwierzęce buźki | 11 |
 | [Food](jedzenie.md) | Jedzenie | 33 |
-| [Nature & weather](natura.md) | Natura i pogoda | 20 |
-| [Houses & places](domki.md) | Domki i miejsca | 12 |
-| [Vehicles](pojazdy.md) | Pojazdy | 14 |
-| [Clothes](ubrania.md) | Ubranka | 14 |
-| [At home](dom.md) | W domu | 18 |
-| [Toys](zabawki.md) | Zabawki | 19 |
-| [Sea creatures](morze.md) | Morskie stworzenia | 12 |
-| [Bugs & insects](owady.md) | Owady i robaczki | 12 |
+| [Nature & weather](natura.md) | Natura i pogoda | 24 |
+| [Houses & places](domki.md) | Domki i miejsca | 13 |
+| [Vehicles](pojazdy.md) | Pojazdy | 15 |
+| [Clothes](ubrania.md) | Ubranka | 15 |
+| [At home](dom.md) | W domu | 19 |
+| [Toys](zabawki.md) | Zabawki | 20 |
+| [Sea creatures](morze.md) | Morskie stworzenia | 13 |
+| [Bugs & insects](owady.md) | Owady i robaczki | 14 |
 | [Dinosaurs](dinozaury.md) | Dinozaury | 7 |
 | [Space](kosmos.md) | Kosmos | 13 |
-| [Music](muzyka.md) | Muzyka | 12 |
+| [Music](muzyka.md) | Muzyka | 13 |
 | [Faces & feelings](emocje.md) | Buzie i emocje | 11 |
-| [Celebrations](swieta.md) | Święta i przyjęcia | 10 |
-| [Sports & play](sport.md) | Sport i ruch | 13 |
+| [Celebrations](swieta.md) | Święta i przyjęcia | 12 |
+| [Sports & play](sport.md) | Sport i ruch | 14 |
