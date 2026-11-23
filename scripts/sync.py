@@ -46,6 +46,13 @@ UA = "pastelki-assets-sync (+https://github.com/" + REPO + ")"
 SVG_NS = "{http://www.w3.org/2000/svg}"
 GALLERY_START, GALLERY_END = "<!-- gallery:start -->", "<!-- gallery:end -->"
 README_PREVIEW = 8  # thumbnails per category in README.md
+# visits from GitHub are tagged so the pastelki.club visit log can tell them apart (Bob 2026-11-23)
+UTM = "utm_source=github&utm_medium=gallery&utm_campaign=pastelki-assets"
+
+
+def tagged(url: str) -> str:
+    """A pastelki.club page link from this repo, with the GitHub utm tags (files and the API stay untagged)."""
+    return url + ("&" if "?" in url else "?") + UTM
 
 
 def fetch(url: str) -> bytes:
@@ -209,7 +216,7 @@ def gallery_page(cat: dict, entries: list[dict]) -> str:
              "| | | | |", "|:-:|:-:|:-:|:-:|"]
     cells = [f'<a href="../{e["file"]}"><img src="../{e["file"]}" width="110" alt="{md(cap(e["title"]["en"]))}"></a>'
              f'<br>**{md(cap(e["title"]["en"]))}**<br>{md(cap(e["title"]["pl"]))}<br>'
-             f'<sub>`{e["slug"]}` · v{e["version"]} · [raw]({e["raw_url"]}) · [site]({e["page_url"]})</sub>'
+             f'<sub>`{e["slug"]}` · v{e["version"]} · [raw]({e["raw_url"]}) · [site]({tagged(e["page_url"])})</sub>'
              for e in entries]
     for i in range(0, len(cells), 4):
         row = cells[i:i + 4] + [""] * (4 - len(cells[i:i + 4]))

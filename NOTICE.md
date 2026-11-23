@@ -1,7 +1,7 @@
 # Additional permission
 
 This is part of the licence of the Pastelki pictures, in addition to the [MIT License](LICENSE). It is the same text
-as on [pastelki.club/en/license](https://pastelki.club/en/license) and in `LICENSE.txt` inside the site's ZIP.
+as on [pastelki.club/en/license](https://pastelki.club/en/license?utm_source=github&utm_medium=notice&utm_campaign=pastelki-assets) and in `LICENSE.txt` inside the site's ZIP.
 
 ```
 "Software" includes every illustration (SVG/PNG) in this package.
