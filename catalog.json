@@ -28,7 +28,7 @@
     "ja",
     "zh"
   ],
-  "count": 413,
+  "count": 456,
   "categories": [
     {
       "id": "zwierzeta",
@@ -74,7 +74,7 @@
         "ja": "どうぶつの赤ちゃん",
         "zh": "动物宝宝"
       },
-      "count": 24
+      "count": 26
     },
     {
       "id": "buzki",
@@ -120,7 +120,7 @@
         "ja": "たべもの",
         "zh": "食物"
       },
-      "count": 35
+      "count": 39
     },
     {
       "id": "natura",
@@ -143,7 +143,7 @@
         "ja": "しぜん・てんき",
         "zh": "自然与天气"
       },
-      "count": 27
+      "count": 37
     },
     {
       "id": "domki",
@@ -166,7 +166,7 @@
         "ja": "おうち・まち",
         "zh": "房屋与场所"
       },
-      "count": 20
+      "count": 22
     },
     {
       "id": "pojazdy",
@@ -189,7 +189,7 @@
         "ja": "のりもの",
         "zh": "交通工具"
       },
-      "count": 19
+      "count": 21
     },
     {
       "id": "ubrania",
@@ -212,7 +212,7 @@
         "ja": "ようふく",
         "zh": "衣服"
       },
-      "count": 23
+      "count": 24
     },
     {
       "id": "dom",
@@ -235,7 +235,7 @@
         "ja": "おうちのなか",
         "zh": "家里"
       },
-      "count": 25
+      "count": 29
     },
     {
       "id": "zabawki",
@@ -258,7 +258,7 @@
         "ja": "おもちゃ",
         "zh": "玩具"
       },
-      "count": 22
+      "count": 25
     },
     {
       "id": "morze",
@@ -281,7 +281,7 @@
         "ja": "うみのいきもの",
         "zh": "海洋动物"
       },
-      "count": 17
+      "count": 19
     },
     {
       "id": "owady",
@@ -304,7 +304,7 @@
         "ja": "むし",
         "zh": "昆虫与小虫"
       },
-      "count": 19
+      "count": 21
     },
     {
       "id": "dinozaury",
@@ -350,7 +350,7 @@
         "ja": "うちゅう",
         "zh": "太空"
       },
-      "count": 19
+      "count": 21
     },
     {
       "id": "muzyka",
@@ -373,7 +373,7 @@
         "ja": "おんがく",
         "zh": "音乐"
       },
-      "count": 22
+      "count": 25
     },
     {
       "id": "emocje",
@@ -396,7 +396,7 @@
         "ja": "かおときもち",
         "zh": "表情与情绪"
       },
-      "count": 12
+      "count": 15
     },
     {
       "id": "swieta",
@@ -419,7 +419,7 @@
         "ja": "おいわい",
         "zh": "节日与庆祝"
       },
-      "count": 17
+      "count": 18
     },
     {
       "id": "sport",
@@ -442,7 +442,7 @@
         "ja": "スポーツとあそび",
         "zh": "运动与游戏"
       },
-      "count": 18
+      "count": 20
     }
   ],
   "palette": [
@@ -1880,6 +1880,48 @@
       "site_png_url": "https://pastelki.club/files/book/book-v1.png"
     },
     {
+      "slug": "chusteczka",
+      "title": {
+        "pl": "chusteczka",
+        "en": "tissue",
+        "de": "Taschentuch",
+        "fr": "mouchoir",
+        "es": "pañuelo de papel",
+        "it": "fazzoletto",
+        "pt": "lenço de papel",
+        "nl": "zakdoekje",
+        "uk": "серветка",
+        "cs": "kapesník",
+        "sk": "vreckovka",
+        "sv": "näsduk",
+        "ro": "șervețel",
+        "hu": "zsebkendő",
+        "tr": "mendil",
+        "ja": "ティッシュ",
+        "zh": "纸巾"
+      },
+      "category": "dom",
+      "tags_pl": [
+        "chusteczka",
+        "pudełko",
+        "w domu",
+        "katar",
+        "higiena"
+      ],
+      "color": "blue",
+      "color_hex": "#4A90D9",
+      "version": 1,
+      "updated_at": "2026-11-25T09:35:57.316855",
+      "license": "MIT",
+      "file": "svg/dom/chusteczka.svg",
+      "bytes": 922,
+      "sha256": "ce56339d75f5985f6906d02a2f4e15e69257a6d74640600fe47cb5e9c03206da",
+      "page_url": "https://pastelki.club/en/image/chusteczka",
+      "raw_url": "https://raw.githubusercontent.com/tobob/pastelki-assets/main/svg/dom/chusteczka.svg",
+      "site_svg_url": "https://pastelki.club/files/chusteczka/chusteczka-v1.svg",
+      "site_png_url": "https://pastelki.club/files/chusteczka/chusteczka-v1.png"
+    },
+    {
       "slug": "clock",
       "title": {
         "pl": "zegar",
@@ -1986,6 +2028,48 @@
       "raw_url": "https://raw.githubusercontent.com/tobob/pastelki-assets/main/svg/dom/cup.svg",
       "site_svg_url": "https://pastelki.club/files/cup/cup-v1.svg",
       "site_png_url": "https://pastelki.club/files/cup/cup-v1.png"
+    },
+    {
+      "slug": "kalamarz-z-piorkiem",
+      "title": {
+        "pl": "kałamarz z piórkiem",
+        "en": "inkwell with a feather",
+        "de": "Tintenfass mit Feder",
+        "fr": "encrier avec une plume",
+        "es": "tintero con pluma",
+        "it": "calamaio con piuma",
+        "pt": "tinteiro com pena",
+        "nl": "inktpot met veer",
+        "uk": "каламар з пером",
+        "cs": "kalamář s pérem",
+        "sk": "kalamár s perom",
+        "sv": "bläckhorn med fjäder",
+        "ro": "călimară cu pană",
+        "hu": "tintatartó tollal",
+        "tr": "tüylü hokka",
+        "ja": "羽ペンとインクつぼ",
+        "zh": "墨水瓶和羽毛笔"
+      },
+      "category": "dom",
+      "tags_pl": [
+        "kałamarz",
+        "piórko",
+        "atrament",
+        "pisanie",
+        "granatowy"
+      ],
+      "color": "blue",
+      "color_hex": "#4A90D9",
+      "version": 1,
+      "updated_at": "2026-11-25T08:28:42.441812",
+      "license": "MIT",
+      "file": "svg/dom/kalamarz-z-piorkiem.svg",
+      "bytes": 576,
+      "sha256": "b2cd430e35a6fc20e0b49d35d96485c519e43d0f13ef561dd1d8f76197c54bd9",
+      "page_url": "https://pastelki.club/en/image/kalamarz-z-piorkiem",
+      "raw_url": "https://raw.githubusercontent.com/tobob/pastelki-assets/main/svg/dom/kalamarz-z-piorkiem.svg",
+      "site_svg_url": "https://pastelki.club/files/kalamarz-z-piorkiem/kalamarz-z-piorkiem-v1.svg",
+      "site_png_url": "https://pastelki.club/files/kalamarz-z-piorkiem/kalamarz-z-piorkiem-v1.png"
     },
     {
       "slug": "kapibara-w-kapieli",
@@ -2235,6 +2319,49 @@
       "site_png_url": "https://pastelki.club/files/krzeslo/krzeslo-v1.png"
     },
     {
+      "slug": "kurek-na-wietrze",
+      "title": {
+        "pl": "kurek na wietrze",
+        "en": "weathercock",
+        "de": "Wetterhahn",
+        "fr": "girouette en forme de coq",
+        "es": "veleta de gallo",
+        "it": "gallo segnavento",
+        "pt": "cata-vento de galo",
+        "nl": "windhaan",
+        "uk": "флюгер-півник",
+        "cs": "větrný kohoutek",
+        "sk": "veterný kohútik",
+        "sv": "vindflöjel med tupp",
+        "ro": "cocoș de vânt",
+        "hu": "szélkakas",
+        "tr": "horoz yelkovan",
+        "ja": "風見鶏",
+        "zh": "风向鸡"
+      },
+      "category": "dom",
+      "tags_pl": [
+        "kogut",
+        "kurek",
+        "wiatr",
+        "dach",
+        "dom",
+        "strony świata"
+      ],
+      "color": "orange",
+      "color_hex": "#F28C38",
+      "version": 2,
+      "updated_at": "2026-11-25T09:40:46.105728",
+      "license": "MIT",
+      "file": "svg/dom/kurek-na-wietrze.svg",
+      "bytes": 1608,
+      "sha256": "4a8c24e5271cf0bd6bd85a873d64ac307880823ef2ea6eea1357ef2fdfa9abb5",
+      "page_url": "https://pastelki.club/en/image/kurek-na-wietrze",
+      "raw_url": "https://raw.githubusercontent.com/tobob/pastelki-assets/main/svg/dom/kurek-na-wietrze.svg",
+      "site_svg_url": "https://pastelki.club/files/kurek-na-wietrze/kurek-na-wietrze-v2.svg",
+      "site_png_url": "https://pastelki.club/files/kurek-na-wietrze/kurek-na-wietrze-v2.png"
+    },
+    {
       "slug": "lamp",
       "title": {
         "pl": "lampka",
@@ -2433,6 +2560,47 @@
       "raw_url": "https://raw.githubusercontent.com/tobob/pastelki-assets/main/svg/dom/pralka.svg",
       "site_svg_url": "https://pastelki.club/files/pralka/pralka-v3.svg",
       "site_png_url": "https://pastelki.club/files/pralka/pralka-v3.png"
+    },
+    {
+      "slug": "pranie-na-sznurku",
+      "title": {
+        "pl": "pranie na sznurku",
+        "en": "laundry on a line",
+        "de": "laundry on a line",
+        "fr": "laundry on a line",
+        "es": "laundry on a line",
+        "it": "laundry on a line",
+        "pt": "laundry on a line",
+        "nl": "laundry on a line",
+        "uk": "laundry on a line",
+        "cs": "laundry on a line",
+        "sk": "laundry on a line",
+        "sv": "laundry on a line",
+        "ro": "laundry on a line",
+        "hu": "laundry on a line",
+        "tr": "laundry on a line",
+        "ja": "laundry on a line",
+        "zh": "laundry on a line"
+      },
+      "category": "dom",
+      "tags_pl": [
+        "wiatr",
+        "pranie",
+        "koszulki",
+        "suszenie"
+      ],
+      "color": "blue",
+      "color_hex": "#4A90D9",
+      "version": 1,
+      "updated_at": "2026-11-25T09:36:11.244397",
+      "license": "MIT",
+      "file": "svg/dom/pranie-na-sznurku.svg",
+      "bytes": 2061,
+      "sha256": "396d0d1f788f7756de9af6a2560ca4e5fdab2de4a50d7823e228bc318f61e3fc",
+      "page_url": "https://pastelki.club/en/image/pranie-na-sznurku",
+      "raw_url": "https://raw.githubusercontent.com/tobob/pastelki-assets/main/svg/dom/pranie-na-sznurku.svg",
+      "site_svg_url": "https://pastelki.club/files/pranie-na-sznurku/pranie-na-sznurku-v1.svg",
+      "site_png_url": "https://pastelki.club/files/pranie-na-sznurku/pranie-na-sznurku-v1.png"
     },
     {
       "slug": "rolka-papieru-toaletowego",
@@ -3399,6 +3567,48 @@
       "site_png_url": "https://pastelki.club/files/nest/nest-v1.png"
     },
     {
+      "slug": "ptaszek-w-gniezdzie",
+      "title": {
+        "pl": "ptaszek w gnieździe",
+        "en": "bird in a nest",
+        "de": "Vögelchen im Nest",
+        "fr": "oiseau dans son nid",
+        "es": "pajarito en el nido",
+        "it": "uccellino nel nido",
+        "pt": "passarinho no ninho",
+        "nl": "vogeltje in het nest",
+        "uk": "пташка в гнізді",
+        "cs": "ptáček v hnízdě",
+        "sk": "vtáčik v hniezde",
+        "sv": "fågelunge i boet",
+        "ro": "păsărică în cuib",
+        "hu": "madárka a fészekben",
+        "tr": "yuvadaki kuşcuk",
+        "ja": "巣の中の小鳥",
+        "zh": "鸟窝里的小鸟"
+      },
+      "category": "domki",
+      "tags_pl": [
+        "ptaszek",
+        "gniazdo",
+        "ptak",
+        "patyki",
+        "niebieski"
+      ],
+      "color": "blue",
+      "color_hex": "#4A90D9",
+      "version": 1,
+      "updated_at": "2026-11-25T09:35:53.377542",
+      "license": "MIT",
+      "file": "svg/domki/ptaszek-w-gniezdzie.svg",
+      "bytes": 1774,
+      "sha256": "223a844624c92ccc46ee9d1b4391118871cafb2fdb11ee46df93556398694028",
+      "page_url": "https://pastelki.club/en/image/ptaszek-w-gniezdzie",
+      "raw_url": "https://raw.githubusercontent.com/tobob/pastelki-assets/main/svg/domki/ptaszek-w-gniezdzie.svg",
+      "site_svg_url": "https://pastelki.club/files/ptaszek-w-gniezdzie/ptaszek-w-gniezdzie-v1.svg",
+      "site_png_url": "https://pastelki.club/files/ptaszek-w-gniezdzie/ptaszek-w-gniezdzie-v1.png"
+    },
+    {
       "slug": "sklep",
       "title": {
         "pl": "sklep",
@@ -3523,6 +3733,48 @@
       "raw_url": "https://raw.githubusercontent.com/tobob/pastelki-assets/main/svg/domki/trojkatny-namiot-cyrkowy.svg",
       "site_svg_url": "https://pastelki.club/files/trojkatny-namiot-cyrkowy/trojkatny-namiot-cyrkowy-v1.svg",
       "site_png_url": "https://pastelki.club/files/trojkatny-namiot-cyrkowy/trojkatny-namiot-cyrkowy-v1.png"
+    },
+    {
+      "slug": "wiatrak",
+      "title": {
+        "pl": "wiatrak",
+        "en": "Windmill",
+        "de": "Windmühle",
+        "fr": "Moulin à vent",
+        "es": "Molino de viento",
+        "it": "Mulino a vento",
+        "pt": "Moinho de vento",
+        "nl": "Windmolen",
+        "uk": "Вітряк",
+        "cs": "Větrný mlýn",
+        "sk": "Veterný mlyn",
+        "sv": "Väderkvarn",
+        "ro": "Moară de vânt",
+        "hu": "Szélmalom",
+        "tr": "Yel değirmeni",
+        "ja": "風車",
+        "zh": "风车"
+      },
+      "category": "domki",
+      "tags_pl": [
+        "wiatrak",
+        "młyn",
+        "skrzydła",
+        "dom",
+        "wieś"
+      ],
+      "color": "white",
+      "color_hex": "#FAF7F0",
+      "version": 1,
+      "updated_at": "2026-11-25T08:28:32.752587",
+      "license": "MIT",
+      "file": "svg/domki/wiatrak.svg",
+      "bytes": 1198,
+      "sha256": "33a90e312964b02e4e13373d3dc9edf4c44ed3bb740872bf8a078db7bcdaa987",
+      "page_url": "https://pastelki.club/en/image/wiatrak",
+      "raw_url": "https://raw.githubusercontent.com/tobob/pastelki-assets/main/svg/domki/wiatrak.svg",
+      "site_svg_url": "https://pastelki.club/files/wiatrak/wiatrak-v1.svg",
+      "site_png_url": "https://pastelki.club/files/wiatrak/wiatrak-v1.png"
     },
     {
       "slug": "zamek-z-piasku",
@@ -3778,6 +4030,90 @@
       "raw_url": "https://raw.githubusercontent.com/tobob/pastelki-assets/main/svg/emocje/smutna-buzia-z-lezka.svg",
       "site_svg_url": "https://pastelki.club/files/smutna-buzia-z-lezka/smutna-buzia-z-lezka-v1.svg",
       "site_png_url": "https://pastelki.club/files/smutna-buzia-z-lezka/smutna-buzia-z-lezka-v1.png"
+    },
+    {
+      "slug": "smutna-chmurka",
+      "title": {
+        "pl": "smutna chmurka",
+        "en": "sad cloud",
+        "de": "traurige Wolke",
+        "fr": "nuage triste",
+        "es": "nube triste",
+        "it": "nuvoletta triste",
+        "pt": "nuvem triste",
+        "nl": "verdrietig wolkje",
+        "uk": "сумна хмаринка",
+        "cs": "smutný obláček",
+        "sk": "smutný obláčik",
+        "sv": "ledsen moln",
+        "ro": "norișor trist",
+        "hu": "szomorú felhő",
+        "tr": "üzgün bulut",
+        "ja": "かなしいくも",
+        "zh": "伤心的小云朵"
+      },
+      "category": "emocje",
+      "tags_pl": [
+        "chmurka",
+        "smutek",
+        "łezka",
+        "pogoda",
+        "emocje"
+      ],
+      "color": "grey",
+      "color_hex": "#A3A7AE",
+      "version": 1,
+      "updated_at": "2026-11-25T08:28:31.335997",
+      "license": "MIT",
+      "file": "svg/emocje/smutna-chmurka.svg",
+      "bytes": 1077,
+      "sha256": "0564d73adb7a36aab19e42fcddf577b33f01e7f243a3b7b74fe1a3ee8f04dbcc",
+      "page_url": "https://pastelki.club/en/image/smutna-chmurka",
+      "raw_url": "https://raw.githubusercontent.com/tobob/pastelki-assets/main/svg/emocje/smutna-chmurka.svg",
+      "site_svg_url": "https://pastelki.club/files/smutna-chmurka/smutna-chmurka-v1.svg",
+      "site_png_url": "https://pastelki.club/files/smutna-chmurka/smutna-chmurka-v1.png"
+    },
+    {
+      "slug": "smutny-deszczowy-obloczek",
+      "title": {
+        "pl": "smutny deszczowy obłoczek",
+        "en": "sad little rain cloud",
+        "de": "traurige Regenwolke",
+        "fr": "petit nuage de pluie triste",
+        "es": "nubecita de lluvia triste",
+        "it": "nuvoletta di pioggia triste",
+        "pt": "nuvenzinha de chuva triste",
+        "nl": "verdrietig regenwolkje",
+        "uk": "сумна дощова хмаринка",
+        "cs": "smutný dešťový mráček",
+        "sk": "smutný dažďový obláčik",
+        "sv": "ledsen regnmoln",
+        "ro": "norișor de ploaie trist",
+        "hu": "szomorú esőfelhő",
+        "tr": "üzgün yağmur bulutu",
+        "ja": "かなしい雨雲",
+        "zh": "难过的小雨云"
+      },
+      "category": "emocje",
+      "tags_pl": [
+        "chmurka",
+        "deszcz",
+        "krople",
+        "smutek",
+        "pogoda"
+      ],
+      "color": "blue",
+      "color_hex": "#4A90D9",
+      "version": 1,
+      "updated_at": "2026-11-25T08:28:37.118744",
+      "license": "MIT",
+      "file": "svg/emocje/smutny-deszczowy-obloczek.svg",
+      "bytes": 1237,
+      "sha256": "6a5b32ad89fc29c0c905bd27a0d107bc14ed8a9fe72b96f2f1063c9863db223d",
+      "page_url": "https://pastelki.club/en/image/smutny-deszczowy-obloczek",
+      "raw_url": "https://raw.githubusercontent.com/tobob/pastelki-assets/main/svg/emocje/smutny-deszczowy-obloczek.svg",
+      "site_svg_url": "https://pastelki.club/files/smutny-deszczowy-obloczek/smutny-deszczowy-obloczek-v1.svg",
+      "site_png_url": "https://pastelki.club/files/smutny-deszczowy-obloczek/smutny-deszczowy-obloczek-v1.png"
     },
     {
       "slug": "spiaca-buzia",
@@ -4120,6 +4456,48 @@
       "site_png_url": "https://pastelki.club/files/zla-buzia/zla-buzia-v4.png"
     },
     {
+      "slug": "zyrafa-z-korona",
+      "title": {
+        "pl": "żyrafa z koroną",
+        "en": "giraffe face with a crown",
+        "de": "Giraffengesicht mit Krone",
+        "fr": "tête de girafe avec une couronne",
+        "es": "carita de jirafa con corona",
+        "it": "faccina di giraffa con la corona",
+        "pt": "carinha de girafa com coroa",
+        "nl": "giraffegezichtje met een kroon",
+        "uk": "мордочка жирафа з короною",
+        "cs": "žirafí obličej s korunou",
+        "sk": "žirafia tvár s korunou",
+        "sv": "giraffansikte med krona",
+        "ro": "fața de girafă cu coroană",
+        "hu": "zsiráf arc koronával",
+        "tr": "taçlı zürafa yüzü",
+        "ja": "かんむりをかぶったキリンの顔",
+        "zh": "戴皇冠的长颈鹿脸"
+      },
+      "category": "emocje",
+      "tags_pl": [
+        "żyrafa",
+        "korona",
+        "buźka",
+        "król",
+        "zwierzę"
+      ],
+      "color": "yellow",
+      "color_hex": "#F6C945",
+      "version": 1,
+      "updated_at": "2026-11-25T09:35:50.085838",
+      "license": "MIT",
+      "file": "svg/emocje/zyrafa-z-korona.svg",
+      "bytes": 1839,
+      "sha256": "f5d41b41d46092fd7e91baa0ed5c305039707ddff68d6a263550037fc72bcf80",
+      "page_url": "https://pastelki.club/en/image/zyrafa-z-korona",
+      "raw_url": "https://raw.githubusercontent.com/tobob/pastelki-assets/main/svg/emocje/zyrafa-z-korona.svg",
+      "site_svg_url": "https://pastelki.club/files/zyrafa-z-korona/zyrafa-z-korona-v1.svg",
+      "site_png_url": "https://pastelki.club/files/zyrafa-z-korona/zyrafa-z-korona-v1.png"
+    },
+    {
       "slug": "ananas",
       "title": {
         "pl": "ananas",
@@ -4160,6 +4538,48 @@
       "raw_url": "https://raw.githubusercontent.com/tobob/pastelki-assets/main/svg/jedzenie/ananas.svg",
       "site_svg_url": "https://pastelki.club/files/ananas/ananas-v1.svg",
       "site_png_url": "https://pastelki.club/files/ananas/ananas-v1.png"
+    },
+    {
+      "slug": "ananas-w-okularach",
+      "title": {
+        "pl": "ananas w okularach",
+        "en": "pineapple with sunglasses",
+        "de": "Ananas mit Sonnenbrille",
+        "fr": "ananas avec des lunettes de soleil",
+        "es": "piña con gafas de sol",
+        "it": "ananas con gli occhiali da sole",
+        "pt": "abacaxi de óculos escuros",
+        "nl": "ananas met zonnebril",
+        "uk": "ананас в окулярах",
+        "cs": "ananas s brýlemi",
+        "sk": "ananás s okuliarmi",
+        "sv": "ananas med solglasögon",
+        "ro": "ananas cu ochelari de soare",
+        "hu": "ananász napszemüvegben",
+        "tr": "güneş gözlüklü ananas",
+        "ja": "サングラスをかけたパイナップル",
+        "zh": "戴墨镜的菠萝"
+      },
+      "category": "jedzenie",
+      "tags_pl": [
+        "ananas",
+        "okulary",
+        "owoc",
+        "lato",
+        "jedzenie"
+      ],
+      "color": "yellow",
+      "color_hex": "#F6C945",
+      "version": 1,
+      "updated_at": "2026-11-25T09:35:58.759813",
+      "license": "MIT",
+      "file": "svg/jedzenie/ananas-w-okularach.svg",
+      "bytes": 1611,
+      "sha256": "9d8e658f524005a5ba04958033e77c813b49ec1973b008b8b4339628b7a7aafc",
+      "page_url": "https://pastelki.club/en/image/ananas-w-okularach",
+      "raw_url": "https://raw.githubusercontent.com/tobob/pastelki-assets/main/svg/jedzenie/ananas-w-okularach.svg",
+      "site_svg_url": "https://pastelki.club/files/ananas-w-okularach/ananas-w-okularach-v1.svg",
+      "site_png_url": "https://pastelki.club/files/ananas-w-okularach/ananas-w-okularach-v1.png"
     },
     {
       "slug": "apple",
@@ -4570,6 +4990,48 @@
       "site_png_url": "https://pastelki.club/files/ciastko/ciastko-v1.png"
     },
     {
+      "slug": "ciastko-z-kawalkiem-czekolady",
+      "title": {
+        "pl": "ciastko z kawałkiem czekolady",
+        "en": "chocolate chip cookie",
+        "de": "Schokokeks",
+        "fr": "cookie au chocolat",
+        "es": "galleta con chispas de chocolate",
+        "it": "biscotto con gocce di cioccolato",
+        "pt": "biscoito com pepitas de chocolate",
+        "nl": "chocoladekoekje",
+        "uk": "печиво з шоколадом",
+        "cs": "sušenka s čokoládou",
+        "sk": "sušienka s čokoládou",
+        "sv": "chokladkaka",
+        "ro": "biscuit cu ciocolată",
+        "hu": "csokis keksz",
+        "tr": "çikolatalı kurabiye",
+        "ja": "チョコチップクッキー",
+        "zh": "巧克力饼干"
+      },
+      "category": "jedzenie",
+      "tags_pl": [
+        "ciastko",
+        "czekolada",
+        "słodycze",
+        "deser",
+        "jedzenie"
+      ],
+      "color": "brown",
+      "color_hex": "#9A6B4A",
+      "version": 1,
+      "updated_at": "2026-11-25T12:12:01.470154",
+      "license": "MIT",
+      "file": "svg/jedzenie/ciastko-z-kawalkiem-czekolady.svg",
+      "bytes": 721,
+      "sha256": "fe3a52e89853869367270d7bdb783dfcd98cd8b352f342d79b987297a29d275a",
+      "page_url": "https://pastelki.club/en/image/ciastko-z-kawalkiem-czekolady",
+      "raw_url": "https://raw.githubusercontent.com/tobob/pastelki-assets/main/svg/jedzenie/ciastko-z-kawalkiem-czekolady.svg",
+      "site_svg_url": "https://pastelki.club/files/ciastko-z-kawalkiem-czekolady/ciastko-z-kawalkiem-czekolady-v1.svg",
+      "site_png_url": "https://pastelki.club/files/ciastko-z-kawalkiem-czekolady/ciastko-z-kawalkiem-czekolady-v1.png"
+    },
+    {
       "slug": "corn",
       "title": {
         "pl": "kukurydza",
@@ -4640,6 +5102,48 @@
       "raw_url": "https://raw.githubusercontent.com/tobob/pastelki-assets/main/svg/jedzenie/egg.svg",
       "site_svg_url": "https://pastelki.club/files/egg/egg-v3.svg",
       "site_png_url": "https://pastelki.club/files/egg/egg-v3.png"
+    },
+    {
+      "slug": "fioletowy-baklazan",
+      "title": {
+        "pl": "fioletowy bakłażan",
+        "en": "purple eggplant",
+        "de": "lila Aubergine",
+        "fr": "aubergine violette",
+        "es": "berenjena morada",
+        "it": "melanzana viola",
+        "pt": "berinjela roxa",
+        "nl": "paarse aubergine",
+        "uk": "фіолетовий баклажан",
+        "cs": "fialový lilek",
+        "sk": "fialový baklažán",
+        "sv": "lila aubergine",
+        "ro": "vânătă violetă",
+        "hu": "lila padlizsán",
+        "tr": "mor patlıcan",
+        "ja": "むらさきのナス",
+        "zh": "紫色茄子"
+      },
+      "category": "jedzenie",
+      "tags_pl": [
+        "bakłażan",
+        "warzywo",
+        "fioletowy",
+        "jedzenie",
+        "kuchnia"
+      ],
+      "color": "purple",
+      "color_hex": "#9B6BC9",
+      "version": 1,
+      "updated_at": "2026-11-25T12:12:13.818500",
+      "license": "MIT",
+      "file": "svg/jedzenie/fioletowy-baklazan.svg",
+      "bytes": 633,
+      "sha256": "22c16bb51fc22c25368b13c94bc6683b689c66b6584c2fbc313299596abf76c6",
+      "page_url": "https://pastelki.club/en/image/fioletowy-baklazan",
+      "raw_url": "https://raw.githubusercontent.com/tobob/pastelki-assets/main/svg/jedzenie/fioletowy-baklazan.svg",
+      "site_svg_url": "https://pastelki.club/files/fioletowy-baklazan/fioletowy-baklazan-v1.svg",
+      "site_png_url": "https://pastelki.club/files/fioletowy-baklazan/fioletowy-baklazan-v1.png"
     },
     {
       "slug": "grapes",
@@ -5407,6 +5911,47 @@
       "site_png_url": "https://pastelki.club/files/watermelon/watermelon-v1.png"
     },
     {
+      "slug": "worek-maki",
+      "title": {
+        "pl": "worek mąki",
+        "en": "sack of flour",
+        "de": "sack of flour",
+        "fr": "sack of flour",
+        "es": "sack of flour",
+        "it": "sack of flour",
+        "pt": "sack of flour",
+        "nl": "sack of flour",
+        "uk": "sack of flour",
+        "cs": "sack of flour",
+        "sk": "sack of flour",
+        "sv": "sack of flour",
+        "ro": "sack of flour",
+        "hu": "sack of flour",
+        "tr": "sack of flour",
+        "ja": "sack of flour",
+        "zh": "sack of flour"
+      },
+      "category": "jedzenie",
+      "tags_pl": [
+        "mąka",
+        "młyn",
+        "ziarno",
+        "wiatrak"
+      ],
+      "color": "white",
+      "color_hex": "#FAF7F0",
+      "version": 1,
+      "updated_at": "2026-11-25T09:36:14.783449",
+      "license": "MIT",
+      "file": "svg/jedzenie/worek-maki.svg",
+      "bytes": 908,
+      "sha256": "6070a1d1f6d9612d4410975293defe7f5e5507110874389d145864858f63fab8",
+      "page_url": "https://pastelki.club/en/image/worek-maki",
+      "raw_url": "https://raw.githubusercontent.com/tobob/pastelki-assets/main/svg/jedzenie/worek-maki.svg",
+      "site_svg_url": "https://pastelki.club/files/worek-maki/worek-maki-v1.svg",
+      "site_png_url": "https://pastelki.club/files/worek-maki/worek-maki-v1.png"
+    },
+    {
       "slug": "zolta-gruszka-z-lisciem",
       "title": {
         "pl": "żółta gruszka z liściem",
@@ -5699,6 +6244,49 @@
       "raw_url": "https://raw.githubusercontent.com/tobob/pastelki-assets/main/svg/kosmos/kometa.svg",
       "site_svg_url": "https://pastelki.club/files/kometa/kometa-v3.svg",
       "site_png_url": "https://pastelki.club/files/kometa/kometa-v3.png"
+    },
+    {
+      "slug": "kometa-z-kolorowym-ogonem",
+      "title": {
+        "pl": "kometa z kolorowym ogonem",
+        "en": "colourful comet",
+        "de": "bunter Komet",
+        "fr": "comète colorée",
+        "es": "cometa de colores",
+        "it": "cometa colorata",
+        "pt": "cometa colorido",
+        "nl": "kleurrijke komeet",
+        "uk": "комета з кольоровим хвостом",
+        "cs": "barevná kometa",
+        "sk": "farebná kométa",
+        "sv": "färgglad komet",
+        "ro": "cometă colorată",
+        "hu": "színes üstökös",
+        "tr": "renkli kuyruklu yıldız",
+        "ja": "カラフルなすい星",
+        "zh": "彩色彗星"
+      },
+      "category": "kosmos",
+      "tags_pl": [
+        "kometa",
+        "kosmos",
+        "niebo",
+        "ogon",
+        "pastelowy",
+        "uśmiech"
+      ],
+      "color": "yellow",
+      "color_hex": "#F6C945",
+      "version": 1,
+      "updated_at": "2026-11-25T08:28:40.782283",
+      "license": "MIT",
+      "file": "svg/kosmos/kometa-z-kolorowym-ogonem.svg",
+      "bytes": 1519,
+      "sha256": "b2c44d79d34c40b788dd57721aa4d79b3940dafd88c03e5adfde021eef46886e",
+      "page_url": "https://pastelki.club/en/image/kometa-z-kolorowym-ogonem",
+      "raw_url": "https://raw.githubusercontent.com/tobob/pastelki-assets/main/svg/kosmos/kometa-z-kolorowym-ogonem.svg",
+      "site_svg_url": "https://pastelki.club/files/kometa-z-kolorowym-ogonem/kometa-z-kolorowym-ogonem-v1.svg",
+      "site_png_url": "https://pastelki.club/files/kometa-z-kolorowym-ogonem/kometa-z-kolorowym-ogonem-v1.png"
     },
     {
       "slug": "kosmiczna-kometa-z-ogonem",
@@ -6251,6 +6839,48 @@
       "site_png_url": "https://pastelki.club/files/ziemia/ziemia-v3.png"
     },
     {
+      "slug": "ziemia-z-osia",
+      "title": {
+        "pl": "Ziemia z przechyloną osią",
+        "en": "Earth with its tilted axis",
+        "de": "Earth with its tilted axis",
+        "fr": "Earth with its tilted axis",
+        "es": "Earth with its tilted axis",
+        "it": "Earth with its tilted axis",
+        "pt": "Earth with its tilted axis",
+        "nl": "Earth with its tilted axis",
+        "uk": "Earth with its tilted axis",
+        "cs": "Earth with its tilted axis",
+        "sk": "Earth with its tilted axis",
+        "sv": "Earth with its tilted axis",
+        "ro": "Earth with its tilted axis",
+        "hu": "Earth with its tilted axis",
+        "tr": "Earth with its tilted axis",
+        "ja": "Earth with its tilted axis",
+        "zh": "Earth with its tilted axis"
+      },
+      "category": "kosmos",
+      "tags_pl": [
+        "ziemia",
+        "oś ziemi",
+        "pory roku",
+        "planeta",
+        "równik"
+      ],
+      "color": "blue",
+      "color_hex": "#4A90D9",
+      "version": 1,
+      "updated_at": "2026-11-25T23:00:34.470866",
+      "license": "MIT",
+      "file": "svg/kosmos/ziemia-z-osia.svg",
+      "bytes": 1044,
+      "sha256": "04ca0f0757534c92e48c688d704597c4186b94ebf980fc2d18872b1b92e4a191",
+      "page_url": "https://pastelki.club/en/image/ziemia-z-osia",
+      "raw_url": "https://raw.githubusercontent.com/tobob/pastelki-assets/main/svg/kosmos/ziemia-z-osia.svg",
+      "site_svg_url": "https://pastelki.club/files/ziemia-z-osia/ziemia-z-osia-v1.svg",
+      "site_png_url": "https://pastelki.club/files/ziemia-z-osia/ziemia-z-osia-v1.png"
+    },
+    {
       "slug": "chick",
       "title": {
         "pl": "kurczątko",
@@ -6664,6 +7294,49 @@
       "site_png_url": "https://pastelki.club/files/kangurek-w-woreczku/kangurek-w-woreczku-v1.png"
     },
     {
+      "slug": "kangurek-z-mama",
+      "title": {
+        "pl": "kangurek z mamą",
+        "en": "kangaroo with mum",
+        "de": "Känguru mit Mama",
+        "fr": "kangourou avec sa maman",
+        "es": "canguro con su mamá",
+        "it": "canguro con la mamma",
+        "pt": "canguru com a mamã",
+        "nl": "kangoeroe met mama",
+        "uk": "кенгуру з мамою",
+        "cs": "klokánek s maminkou",
+        "sk": "klokanček s mamičkou",
+        "sv": "känguru med mamma",
+        "ro": "cangur cu mama",
+        "hu": "kenguru az anyukájával",
+        "tr": "anne ve yavru kanguru",
+        "ja": "カンガルーのおやこ",
+        "zh": "袋鼠妈妈和宝宝"
+      },
+      "category": "maluchy",
+      "tags_pl": [
+        "kangurek",
+        "kangur",
+        "mama",
+        "woreczek",
+        "maluch",
+        "zwierzęta"
+      ],
+      "color": "brown",
+      "color_hex": "#9A6B4A",
+      "version": 2,
+      "updated_at": "2026-11-25T08:31:01.411150",
+      "license": "MIT",
+      "file": "svg/maluchy/kangurek-z-mama.svg",
+      "bytes": 2444,
+      "sha256": "1b0471f57faf0d0fe4d8ecb58a7e8e1c1637567aaac7a67bae70565eb2b0bc16",
+      "page_url": "https://pastelki.club/en/image/kangurek-z-mama",
+      "raw_url": "https://raw.githubusercontent.com/tobob/pastelki-assets/main/svg/maluchy/kangurek-z-mama.svg",
+      "site_svg_url": "https://pastelki.club/files/kangurek-z-mama/kangurek-z-mama-v2.svg",
+      "site_png_url": "https://pastelki.club/files/kangurek-z-mama/kangurek-z-mama-v2.png"
+    },
+    {
       "slug": "kitten",
       "title": {
         "pl": "kotek",
@@ -6906,6 +7579,49 @@
       "raw_url": "https://raw.githubusercontent.com/tobob/pastelki-assets/main/svg/maluchy/lamb.svg",
       "site_svg_url": "https://pastelki.club/files/lamb/lamb-v2.svg",
       "site_png_url": "https://pastelki.club/files/lamb/lamb-v2.png"
+    },
+    {
+      "slug": "maly-lew",
+      "title": {
+        "pl": "mały lew",
+        "en": "lion cub",
+        "de": "kleiner Löwe",
+        "fr": "petit lion",
+        "es": "leoncito",
+        "it": "leoncino",
+        "pt": "filhote de leão",
+        "nl": "leeuwenjong",
+        "uk": "маленький лев",
+        "cs": "malý lvíček",
+        "sk": "malý levíček",
+        "sv": "lejonunge",
+        "ro": "pui de leu",
+        "hu": "kis oroszlán",
+        "tr": "yavru aslan",
+        "ja": "こじし",
+        "zh": "小狮子"
+      },
+      "category": "maluchy",
+      "tags_pl": [
+        "lew",
+        "lwiątko",
+        "grzywa",
+        "maluch",
+        "zwierzę",
+        "safari"
+      ],
+      "color": "yellow",
+      "color_hex": "#F6C945",
+      "version": 1,
+      "updated_at": "2026-11-25T09:35:51.727009",
+      "license": "MIT",
+      "file": "svg/maluchy/maly-lew.svg",
+      "bytes": 2805,
+      "sha256": "69cb7376b12109da2b799c3aa2914baa61fb58c5697ac33eea64ecab5fdf9c47",
+      "page_url": "https://pastelki.club/en/image/maly-lew",
+      "raw_url": "https://raw.githubusercontent.com/tobob/pastelki-assets/main/svg/maluchy/maly-lew.svg",
+      "site_svg_url": "https://pastelki.club/files/maly-lew/maly-lew-v1.svg",
+      "site_png_url": "https://pastelki.club/files/maly-lew/maly-lew-v1.png"
     },
     {
       "slug": "maly-pies-szczeniak-z-pilka",
@@ -7282,6 +7998,48 @@
       "raw_url": "https://raw.githubusercontent.com/tobob/pastelki-assets/main/svg/morze/kalamarnica.svg",
       "site_svg_url": "https://pastelki.club/files/kalamarnica/kalamarnica-v1.svg",
       "site_png_url": "https://pastelki.club/files/kalamarnica/kalamarnica-v1.png"
+    },
+    {
+      "slug": "kalamarnica-w-okularach",
+      "title": {
+        "pl": "kałamarnica w okularach",
+        "en": "Squid with glasses",
+        "de": "Tintenfisch mit Brille",
+        "fr": "Calamar à lunettes",
+        "es": "Calamar con gafas",
+        "it": "Calamaro con gli occhiali",
+        "pt": "Lula de óculos",
+        "nl": "Inktvis met bril",
+        "uk": "Кальмар в окулярах",
+        "cs": "Kalmar s brýlemi",
+        "sk": "Kalmár s okuliarmi",
+        "sv": "Bläckfisk med glasögon",
+        "ro": "Calmar cu ochelari",
+        "hu": "Tintahal szemüvegben",
+        "tr": "Gözlüklü kalamar",
+        "ja": "めがねをかけたイカ",
+        "zh": "戴眼镜的鱿鱼"
+      },
+      "category": "morze",
+      "tags_pl": [
+        "kałamarnica",
+        "okulary",
+        "morze",
+        "macki",
+        "różowy"
+      ],
+      "color": "pink",
+      "color_hex": "#F29BB8",
+      "version": 1,
+      "updated_at": "2026-11-25T08:28:25.254175",
+      "license": "MIT",
+      "file": "svg/morze/kalamarnica-w-okularach.svg",
+      "bytes": 1830,
+      "sha256": "ec16b66f26bcd7e8eef855ce19aef7e2aa484d12ee5d1c8a6c3bd8331f56fc00",
+      "page_url": "https://pastelki.club/en/image/kalamarnica-w-okularach",
+      "raw_url": "https://raw.githubusercontent.com/tobob/pastelki-assets/main/svg/morze/kalamarnica-w-okularach.svg",
+      "site_svg_url": "https://pastelki.club/files/kalamarnica-w-okularach/kalamarnica-w-okularach-v1.svg",
+      "site_png_url": "https://pastelki.club/files/kalamarnica-w-okularach/kalamarnica-w-okularach-v1.png"
     },
     {
       "slug": "konik-morski",
@@ -7919,6 +8677,49 @@
       "site_png_url": "https://pastelki.club/files/wydra-morska/wydra-morska-v1.png"
     },
     {
+      "slug": "zlota-rybka-w-misce",
+      "title": {
+        "pl": "złota rybka w misce",
+        "en": "goldfish in a bowl",
+        "de": "Goldfisch im Glas",
+        "fr": "poisson rouge dans son bocal",
+        "es": "pez dorado en su pecera",
+        "it": "pesciolino rosso nella boccia",
+        "pt": "peixinho dourado no aquário",
+        "nl": "goudvis in een kom",
+        "uk": "золота рибка в акваріумі",
+        "cs": "zlatá rybka v misce",
+        "sk": "zlatá rybka v miske",
+        "sv": "guldfisk i skål",
+        "ro": "peștișor auriu în acvariu",
+        "hu": "aranyhal a tálban",
+        "tr": "fanusta japon balığı",
+        "ja": "金魚鉢の金魚",
+        "zh": "鱼缸里的金鱼"
+      },
+      "category": "morze",
+      "tags_pl": [
+        "rybka",
+        "złota rybka",
+        "akwarium",
+        "miska",
+        "woda",
+        "pomarańczowy"
+      ],
+      "color": "orange",
+      "color_hex": "#F28C38",
+      "version": 1,
+      "updated_at": "2026-11-25T09:36:00.140079",
+      "license": "MIT",
+      "file": "svg/morze/zlota-rybka-w-misce.svg",
+      "bytes": 1066,
+      "sha256": "1ceabb8d4d65841847a23c8afa833f6e152ef0509dc639de6b5e71ca4c5e95e7",
+      "page_url": "https://pastelki.club/en/image/zlota-rybka-w-misce",
+      "raw_url": "https://raw.githubusercontent.com/tobob/pastelki-assets/main/svg/morze/zlota-rybka-w-misce.svg",
+      "site_svg_url": "https://pastelki.club/files/zlota-rybka-w-misce/zlota-rybka-w-misce-v1.svg",
+      "site_png_url": "https://pastelki.club/files/zlota-rybka-w-misce/zlota-rybka-w-misce-v1.png"
+    },
+    {
       "slug": "zolw-morski",
       "title": {
         "pl": "żółw morski",
@@ -8255,6 +9056,48 @@
       "raw_url": "https://raw.githubusercontent.com/tobob/pastelki-assets/main/svg/muzyka/flet.svg",
       "site_svg_url": "https://pastelki.club/files/flet/flet-v1.svg",
       "site_png_url": "https://pastelki.club/files/flet/flet-v1.png"
+    },
+    {
+      "slug": "fortepian-dla-misia",
+      "title": {
+        "pl": "fortepian dla misia",
+        "en": "teddy bear at the piano",
+        "de": "Teddybär am Klavier",
+        "fr": "ourson au piano",
+        "es": "osito en el piano",
+        "it": "orsetto al pianoforte",
+        "pt": "ursinho no piano",
+        "nl": "beertje aan de piano",
+        "uk": "ведмедик за піаніно",
+        "cs": "medvídek u klavíru",
+        "sk": "medvedík pri klavíri",
+        "sv": "nalle vid pianot",
+        "ro": "ursuleț la pian",
+        "hu": "maci a zongoránál",
+        "tr": "piyanodaki ayıcık",
+        "ja": "ピアノとくまさん",
+        "zh": "钢琴前的小熊"
+      },
+      "category": "muzyka",
+      "tags_pl": [
+        "miś",
+        "pianino",
+        "klawisze",
+        "muzyka",
+        "zabawka"
+      ],
+      "color": "orange",
+      "color_hex": "#F28C38",
+      "version": 1,
+      "updated_at": "2026-11-25T09:35:46.741764",
+      "license": "MIT",
+      "file": "svg/muzyka/fortepian-dla-misia.svg",
+      "bytes": 2337,
+      "sha256": "66cfe3a1bdbebb64c7bf1f06b3c0067a984aa9dffc65d4f1c810ed0d7d696001",
+      "page_url": "https://pastelki.club/en/image/fortepian-dla-misia",
+      "raw_url": "https://raw.githubusercontent.com/tobob/pastelki-assets/main/svg/muzyka/fortepian-dla-misia.svg",
+      "site_svg_url": "https://pastelki.club/files/fortepian-dla-misia/fortepian-dla-misia-v1.svg",
+      "site_png_url": "https://pastelki.club/files/fortepian-dla-misia/fortepian-dla-misia-v1.png"
     },
     {
       "slug": "gitara",
@@ -8680,6 +9523,48 @@
       "site_png_url": "https://pastelki.club/files/pozytywka-z-misiem/pozytywka-z-misiem-v1.png"
     },
     {
+      "slug": "pozytywka-z-zajacem",
+      "title": {
+        "pl": "pozytywka z zającem",
+        "en": "music box with a bunny",
+        "de": "Spieluhr mit Häschen",
+        "fr": "boîte à musique avec un lapin",
+        "es": "caja de música con un conejito",
+        "it": "carillon con un coniglietto",
+        "pt": "caixa de música com um coelhinho",
+        "nl": "muziekdoosje met een konijntje",
+        "uk": "музична скринька із зайчиком",
+        "cs": "hrací skříňka se zajíčkem",
+        "sk": "hracia skrinka so zajačikom",
+        "sv": "speldosa med en kanin",
+        "ro": "cutie muzicală cu un iepuraș",
+        "hu": "zenedoboz nyuszival",
+        "tr": "tavşanlı müzik kutusu",
+        "ja": "うさぎのオルゴール",
+        "zh": "小兔子音乐盒"
+      },
+      "category": "muzyka",
+      "tags_pl": [
+        "pozytywka",
+        "zajączek",
+        "muzyka",
+        "korbka",
+        "pudełko"
+      ],
+      "color": "pink",
+      "color_hex": "#F29BB8",
+      "version": 1,
+      "updated_at": "2026-11-25T08:28:35.260322",
+      "license": "MIT",
+      "file": "svg/muzyka/pozytywka-z-zajacem.svg",
+      "bytes": 2029,
+      "sha256": "011d359a925a76fe552c2afa04a11e0d702acb5b7d68585dfe0c0710c263ce09",
+      "page_url": "https://pastelki.club/en/image/pozytywka-z-zajacem",
+      "raw_url": "https://raw.githubusercontent.com/tobob/pastelki-assets/main/svg/muzyka/pozytywka-z-zajacem.svg",
+      "site_svg_url": "https://pastelki.club/files/pozytywka-z-zajacem/pozytywka-z-zajacem-v1.svg",
+      "site_png_url": "https://pastelki.club/files/pozytywka-z-zajacem/pozytywka-z-zajacem-v1.png"
+    },
+    {
       "slug": "skrzypce",
       "title": {
         "pl": "skrzypce",
@@ -8890,6 +9775,48 @@
       "site_png_url": "https://pastelki.club/files/tuba/tuba-v1.png"
     },
     {
+      "slug": "ukulele",
+      "title": {
+        "pl": "ukulele",
+        "en": "ukulele",
+        "de": "Ukulele",
+        "fr": "ukulélé",
+        "es": "ukelele",
+        "it": "ukulele",
+        "pt": "ukulele",
+        "nl": "ukelele",
+        "uk": "укулеле",
+        "cs": "ukulele",
+        "sk": "ukulele",
+        "sv": "ukulele",
+        "ro": "ukulele",
+        "hu": "ukulele",
+        "tr": "ukulele",
+        "ja": "ウクレレ",
+        "zh": "尤克里里"
+      },
+      "category": "muzyka",
+      "tags_pl": [
+        "ukulele",
+        "instrument",
+        "struny",
+        "muzyka",
+        "gitara"
+      ],
+      "color": "orange",
+      "color_hex": "#F28C38",
+      "version": 1,
+      "updated_at": "2026-11-25T08:28:33.859096",
+      "license": "MIT",
+      "file": "svg/muzyka/ukulele.svg",
+      "bytes": 889,
+      "sha256": "eb2461e4d7f2d1208ae976cf21bb01fac44cf4a2119789678e972589127c24ff",
+      "page_url": "https://pastelki.club/en/image/ukulele",
+      "raw_url": "https://raw.githubusercontent.com/tobob/pastelki-assets/main/svg/muzyka/ukulele.svg",
+      "site_svg_url": "https://pastelki.club/files/ukulele/ukulele-v1.svg",
+      "site_png_url": "https://pastelki.club/files/ukulele/ukulele-v1.png"
+    },
+    {
       "slug": "acorn",
       "title": {
         "pl": "żołądź",
@@ -8924,6 +9851,48 @@
       "raw_url": "https://raw.githubusercontent.com/tobob/pastelki-assets/main/svg/natura/acorn.svg",
       "site_svg_url": "https://pastelki.club/files/acorn/acorn-v3.svg",
       "site_png_url": "https://pastelki.club/files/acorn/acorn-v3.png"
+    },
+    {
+      "slug": "cebulka-tulipana",
+      "title": {
+        "pl": "cebulka tulipana",
+        "en": "tulip bulb",
+        "de": "tulip bulb",
+        "fr": "tulip bulb",
+        "es": "tulip bulb",
+        "it": "tulip bulb",
+        "pt": "tulip bulb",
+        "nl": "tulip bulb",
+        "uk": "tulip bulb",
+        "cs": "tulip bulb",
+        "sk": "tulip bulb",
+        "sv": "tulip bulb",
+        "ro": "tulip bulb",
+        "hu": "tulip bulb",
+        "tr": "tulip bulb",
+        "ja": "tulip bulb",
+        "zh": "tulip bulb"
+      },
+      "category": "natura",
+      "tags_pl": [
+        "cebulka",
+        "tulipan",
+        "ogród",
+        "zima",
+        "roślina"
+      ],
+      "color": "brown",
+      "color_hex": "#9A6B4A",
+      "version": 1,
+      "updated_at": "2026-11-25T23:00:40.941554",
+      "license": "MIT",
+      "file": "svg/natura/cebulka-tulipana.svg",
+      "bytes": 561,
+      "sha256": "8664158428b4213717f5f244cd415dbf1597ee3c58333a04f1490909861224d2",
+      "page_url": "https://pastelki.club/en/image/cebulka-tulipana",
+      "raw_url": "https://raw.githubusercontent.com/tobob/pastelki-assets/main/svg/natura/cebulka-tulipana.svg",
+      "site_svg_url": "https://pastelki.club/files/cebulka-tulipana/cebulka-tulipana-v1.svg",
+      "site_png_url": "https://pastelki.club/files/cebulka-tulipana/cebulka-tulipana-v1.png"
     },
     {
       "slug": "cloud",
@@ -9077,6 +10046,133 @@
       "site_png_url": "https://pastelki.club/files/iceberg/iceberg-v1.png"
     },
     {
+      "slug": "jablon-jesien",
+      "title": {
+        "pl": "jabłoń jesienią",
+        "en": "apple tree in autumn",
+        "de": "apple tree in autumn",
+        "fr": "apple tree in autumn",
+        "es": "apple tree in autumn",
+        "it": "apple tree in autumn",
+        "pt": "apple tree in autumn",
+        "nl": "apple tree in autumn",
+        "uk": "apple tree in autumn",
+        "cs": "apple tree in autumn",
+        "sk": "apple tree in autumn",
+        "sv": "apple tree in autumn",
+        "ro": "apple tree in autumn",
+        "hu": "apple tree in autumn",
+        "tr": "apple tree in autumn",
+        "ja": "apple tree in autumn",
+        "zh": "apple tree in autumn"
+      },
+      "category": "natura",
+      "tags_pl": [
+        "jabłoń",
+        "jesień",
+        "liście",
+        "drzewo",
+        "pory roku"
+      ],
+      "color": "orange",
+      "color_hex": "#F28C38",
+      "version": 1,
+      "updated_at": "2026-11-25T23:00:37.315811",
+      "license": "MIT",
+      "file": "svg/natura/jablon-jesien.svg",
+      "bytes": 742,
+      "sha256": "63a09b5c874f6907881cd8e066657819e7feb9330e124b77d619668d09d129b2",
+      "page_url": "https://pastelki.club/en/image/jablon-jesien",
+      "raw_url": "https://raw.githubusercontent.com/tobob/pastelki-assets/main/svg/natura/jablon-jesien.svg",
+      "site_svg_url": "https://pastelki.club/files/jablon-jesien/jablon-jesien-v1.svg",
+      "site_png_url": "https://pastelki.club/files/jablon-jesien/jablon-jesien-v1.png"
+    },
+    {
+      "slug": "jablon-wiosna",
+      "title": {
+        "pl": "jabłoń wiosną",
+        "en": "apple tree in spring",
+        "de": "apple tree in spring",
+        "fr": "apple tree in spring",
+        "es": "apple tree in spring",
+        "it": "apple tree in spring",
+        "pt": "apple tree in spring",
+        "nl": "apple tree in spring",
+        "uk": "apple tree in spring",
+        "cs": "apple tree in spring",
+        "sk": "apple tree in spring",
+        "sv": "apple tree in spring",
+        "ro": "apple tree in spring",
+        "hu": "apple tree in spring",
+        "tr": "apple tree in spring",
+        "ja": "apple tree in spring",
+        "zh": "apple tree in spring"
+      },
+      "category": "natura",
+      "tags_pl": [
+        "jabłoń",
+        "wiosna",
+        "kwiaty",
+        "drzewo",
+        "pory roku"
+      ],
+      "color": "green",
+      "color_hex": "#5BB36A",
+      "version": 1,
+      "updated_at": "2026-11-25T23:00:36.059410",
+      "license": "MIT",
+      "file": "svg/natura/jablon-wiosna.svg",
+      "bytes": 1502,
+      "sha256": "6e74930bf8e69caf50b6a80e149e6f352a149ff32301c0f0a46c33a0770f912b",
+      "page_url": "https://pastelki.club/en/image/jablon-wiosna",
+      "raw_url": "https://raw.githubusercontent.com/tobob/pastelki-assets/main/svg/natura/jablon-wiosna.svg",
+      "site_svg_url": "https://pastelki.club/files/jablon-wiosna/jablon-wiosna-v1.svg",
+      "site_png_url": "https://pastelki.club/files/jablon-wiosna/jablon-wiosna-v1.png"
+    },
+    {
+      "slug": "jablon-zima",
+      "title": {
+        "pl": "jabłoń zimą",
+        "en": "apple tree in winter",
+        "de": "apple tree in winter",
+        "fr": "apple tree in winter",
+        "es": "apple tree in winter",
+        "it": "apple tree in winter",
+        "pt": "apple tree in winter",
+        "nl": "apple tree in winter",
+        "uk": "apple tree in winter",
+        "cs": "apple tree in winter",
+        "sk": "apple tree in winter",
+        "sv": "apple tree in winter",
+        "ro": "apple tree in winter",
+        "hu": "apple tree in winter",
+        "tr": "apple tree in winter",
+        "ja": "apple tree in winter",
+        "zh": "apple tree in winter"
+      },
+      "category": "natura",
+      "tags_pl": [
+        "jabłoń",
+        "zima",
+        "pączki",
+        "śnieg",
+        "drzewo",
+        "pory roku"
+      ],
+      "color": "brown",
+      "color_hex": "#9A6B4A",
+      "version": 1,
+      "updated_at": "2026-11-25T23:00:39.126264",
+      "license": "MIT",
+      "file": "svg/natura/jablon-zima.svg",
+      "bytes": 2283,
+      "sha256": "42e80e41ae0e530c0e98b9118a5a5a5cccd8651a0ed7c08894ec508736cf6388",
+      "page_url": "https://pastelki.club/en/image/jablon-zima",
+      "raw_url": "https://raw.githubusercontent.com/tobob/pastelki-assets/main/svg/natura/jablon-zima.svg",
+      "site_svg_url": "https://pastelki.club/files/jablon-zima/jablon-zima-v1.svg",
+      "site_png_url": "https://pastelki.club/files/jablon-zima/jablon-zima-v1.png"
+    },
+    {
       "slug": "kaczka-na-stawie",
       "title": {
         "pl": "kaczka na stawie",
@@ -9203,6 +10299,46 @@
       "site_png_url": "https://pastelki.club/files/kamien/kamien-v1.png"
     },
     {
+      "slug": "kepka-trawy",
+      "title": {
+        "pl": "kępka trawy",
+        "en": "tuft of grass",
+        "de": "tuft of grass",
+        "fr": "tuft of grass",
+        "es": "tuft of grass",
+        "it": "tuft of grass",
+        "pt": "tuft of grass",
+        "nl": "tuft of grass",
+        "uk": "tuft of grass",
+        "cs": "tuft of grass",
+        "sk": "tuft of grass",
+        "sv": "tuft of grass",
+        "ro": "tuft of grass",
+        "hu": "tuft of grass",
+        "tr": "tuft of grass",
+        "ja": "tuft of grass",
+        "zh": "tuft of grass"
+      },
+      "category": "natura",
+      "tags_pl": [
+        "trawa",
+        "łąka",
+        "wiatr"
+      ],
+      "color": "green",
+      "color_hex": "#5BB36A",
+      "version": 1,
+      "updated_at": "2026-11-25T09:36:18.362794",
+      "license": "MIT",
+      "file": "svg/natura/kepka-trawy.svg",
+      "bytes": 333,
+      "sha256": "7b1dff1b1a4f543fe78f0c746f581a5ad6500d23c2a8003f6a5dfb9306d2ce63",
+      "page_url": "https://pastelki.club/en/image/kepka-trawy",
+      "raw_url": "https://raw.githubusercontent.com/tobob/pastelki-assets/main/svg/natura/kepka-trawy.svg",
+      "site_svg_url": "https://pastelki.club/files/kepka-trawy/kepka-trawy-v1.svg",
+      "site_png_url": "https://pastelki.club/files/kepka-trawy/kepka-trawy-v1.png"
+    },
+    {
       "slug": "kielek",
       "title": {
         "pl": "kiełek",
@@ -9244,6 +10380,48 @@
       "raw_url": "https://raw.githubusercontent.com/tobob/pastelki-assets/main/svg/natura/kielek.svg",
       "site_svg_url": "https://pastelki.club/files/kielek/kielek-v1.svg",
       "site_png_url": "https://pastelki.club/files/kielek/kielek-v1.png"
+    },
+    {
+      "slug": "klosy-pszenicy",
+      "title": {
+        "pl": "kłosy pszenicy",
+        "en": "ears of wheat",
+        "de": "ears of wheat",
+        "fr": "ears of wheat",
+        "es": "ears of wheat",
+        "it": "ears of wheat",
+        "pt": "ears of wheat",
+        "nl": "ears of wheat",
+        "uk": "ears of wheat",
+        "cs": "ears of wheat",
+        "sk": "ears of wheat",
+        "sv": "ears of wheat",
+        "ro": "ears of wheat",
+        "hu": "ears of wheat",
+        "tr": "ears of wheat",
+        "ja": "ears of wheat",
+        "zh": "ears of wheat"
+      },
+      "category": "natura",
+      "tags_pl": [
+        "pszenica",
+        "kłosy",
+        "zboże",
+        "lato",
+        "pole"
+      ],
+      "color": "yellow",
+      "color_hex": "#F6C945",
+      "version": 1,
+      "updated_at": "2026-11-25T23:00:42.717497",
+      "license": "MIT",
+      "file": "svg/natura/klosy-pszenicy.svg",
+      "bytes": 2126,
+      "sha256": "6ac7e22839275c586052b4dd89fc6298e0b21b1f0152ebdb2cdb5a7f5a92d32a",
+      "page_url": "https://pastelki.club/en/image/klosy-pszenicy",
+      "raw_url": "https://raw.githubusercontent.com/tobob/pastelki-assets/main/svg/natura/klosy-pszenicy.svg",
+      "site_svg_url": "https://pastelki.club/files/klosy-pszenicy/klosy-pszenicy-v1.svg",
+      "site_png_url": "https://pastelki.club/files/klosy-pszenicy/klosy-pszenicy-v1.png"
     },
     {
       "slug": "leaf",
@@ -9438,6 +10616,47 @@
       "site_png_url": "https://pastelki.club/files/nasionko/nasionko-v1.png"
     },
     {
+      "slug": "osniezony-szczyt",
+      "title": {
+        "pl": "ośnieżony szczyt",
+        "en": "snowy mountain peak",
+        "de": "snowy mountain peak",
+        "fr": "snowy mountain peak",
+        "es": "snowy mountain peak",
+        "it": "snowy mountain peak",
+        "pt": "snowy mountain peak",
+        "nl": "snowy mountain peak",
+        "uk": "snowy mountain peak",
+        "cs": "snowy mountain peak",
+        "sk": "snowy mountain peak",
+        "sv": "snowy mountain peak",
+        "ro": "snowy mountain peak",
+        "hu": "snowy mountain peak",
+        "tr": "snowy mountain peak",
+        "ja": "snowy mountain peak",
+        "zh": "snowy mountain peak"
+      },
+      "category": "natura",
+      "tags_pl": [
+        "góry",
+        "Tatry",
+        "szczyt",
+        "śnieg"
+      ],
+      "color": "grey",
+      "color_hex": "#A3A7AE",
+      "version": 1,
+      "updated_at": "2026-11-25T09:36:16.635551",
+      "license": "MIT",
+      "file": "svg/natura/osniezony-szczyt.svg",
+      "bytes": 628,
+      "sha256": "1161217e11803a0c39b61f4b79d615dee549d0dd011310d1dc43d4aa32048c2d",
+      "page_url": "https://pastelki.club/en/image/osniezony-szczyt",
+      "raw_url": "https://raw.githubusercontent.com/tobob/pastelki-assets/main/svg/natura/osniezony-szczyt.svg",
+      "site_svg_url": "https://pastelki.club/files/osniezony-szczyt/osniezony-szczyt-v1.svg",
+      "site_png_url": "https://pastelki.club/files/osniezony-szczyt/osniezony-szczyt-v1.png"
+    },
+    {
       "slug": "pond",
       "title": {
         "pl": "staw",
@@ -9472,6 +10691,48 @@
       "raw_url": "https://raw.githubusercontent.com/tobob/pastelki-assets/main/svg/natura/pond.svg",
       "site_svg_url": "https://pastelki.club/files/pond/pond-v1.svg",
       "site_png_url": "https://pastelki.club/files/pond/pond-v1.png"
+    },
+    {
+      "slug": "pszenica-ozima-kielki",
+      "title": {
+        "pl": "kiełki pszenicy ozimej",
+        "en": "winter wheat sprouts",
+        "de": "winter wheat sprouts",
+        "fr": "winter wheat sprouts",
+        "es": "winter wheat sprouts",
+        "it": "winter wheat sprouts",
+        "pt": "winter wheat sprouts",
+        "nl": "winter wheat sprouts",
+        "uk": "winter wheat sprouts",
+        "cs": "winter wheat sprouts",
+        "sk": "winter wheat sprouts",
+        "sv": "winter wheat sprouts",
+        "ro": "winter wheat sprouts",
+        "hu": "winter wheat sprouts",
+        "tr": "winter wheat sprouts",
+        "ja": "winter wheat sprouts",
+        "zh": "winter wheat sprouts"
+      },
+      "category": "natura",
+      "tags_pl": [
+        "pszenica",
+        "kiełki",
+        "jesień",
+        "pole",
+        "roślina"
+      ],
+      "color": "green",
+      "color_hex": "#5BB36A",
+      "version": 1,
+      "updated_at": "2026-11-25T23:00:44.385603",
+      "license": "MIT",
+      "file": "svg/natura/pszenica-ozima-kielki.svg",
+      "bytes": 1192,
+      "sha256": "49450fc963906d26c76cae87572e28c4d834f88bca364ffb6ea766e1cef33151",
+      "page_url": "https://pastelki.club/en/image/pszenica-ozima-kielki",
+      "raw_url": "https://raw.githubusercontent.com/tobob/pastelki-assets/main/svg/natura/pszenica-ozima-kielki.svg",
+      "site_svg_url": "https://pastelki.club/files/pszenica-ozima-kielki/pszenica-ozima-kielki-v1.svg",
+      "site_png_url": "https://pastelki.club/files/pszenica-ozima-kielki/pszenica-ozima-kielki-v1.png"
     },
     {
       "slug": "rainbow",
@@ -9544,6 +10805,49 @@
       "raw_url": "https://raw.githubusercontent.com/tobob/pastelki-assets/main/svg/natura/raindrop.svg",
       "site_svg_url": "https://pastelki.club/files/raindrop/raindrop-v3.svg",
       "site_png_url": "https://pastelki.club/files/raindrop/raindrop-v3.png"
+    },
+    {
+      "slug": "roza",
+      "title": {
+        "pl": "róża",
+        "en": "rose",
+        "de": "Rose",
+        "fr": "rose",
+        "es": "rosa",
+        "it": "rosa",
+        "pt": "rosa",
+        "nl": "roos",
+        "uk": "троянда",
+        "cs": "růže",
+        "sk": "ruža",
+        "sv": "ros",
+        "ro": "trandafir",
+        "hu": "rózsa",
+        "tr": "gül",
+        "ja": "バラ",
+        "zh": "玫瑰"
+      },
+      "category": "natura",
+      "tags_pl": [
+        "róża",
+        "kwiat",
+        "czerwona",
+        "łodyga",
+        "liście",
+        "ogród"
+      ],
+      "color": "red",
+      "color_hex": "#E5534B",
+      "version": 1,
+      "updated_at": "2026-11-25T09:35:56.007692",
+      "license": "MIT",
+      "file": "svg/natura/roza.svg",
+      "bytes": 1123,
+      "sha256": "881cc1750db16f8cce77b66c762064b2e9331cfb21fc7d2875d9d55613e8e656",
+      "page_url": "https://pastelki.club/en/image/roza",
+      "raw_url": "https://raw.githubusercontent.com/tobob/pastelki-assets/main/svg/natura/roza.svg",
+      "site_svg_url": "https://pastelki.club/files/roza/roza-v1.svg",
+      "site_png_url": "https://pastelki.club/files/roza/roza-v1.png"
     },
     {
       "slug": "sea",
@@ -9895,6 +11199,47 @@
       "site_png_url": "https://pastelki.club/files/tulipan/tulipan-v1.png"
     },
     {
+      "slug": "turbina-wiatrowa",
+      "title": {
+        "pl": "turbina wiatrowa",
+        "en": "wind turbine",
+        "de": "wind turbine",
+        "fr": "wind turbine",
+        "es": "wind turbine",
+        "it": "wind turbine",
+        "pt": "wind turbine",
+        "nl": "wind turbine",
+        "uk": "wind turbine",
+        "cs": "wind turbine",
+        "sk": "wind turbine",
+        "sv": "wind turbine",
+        "ro": "wind turbine",
+        "hu": "wind turbine",
+        "tr": "wind turbine",
+        "ja": "wind turbine",
+        "zh": "wind turbine"
+      },
+      "category": "natura",
+      "tags_pl": [
+        "wiatr",
+        "wiatrak",
+        "prąd",
+        "energia"
+      ],
+      "color": "white",
+      "color_hex": "#FAF7F0",
+      "version": 2,
+      "updated_at": "2026-11-25T12:12:02.964341",
+      "license": "MIT",
+      "file": "svg/natura/turbina-wiatrowa.svg",
+      "bytes": 1608,
+      "sha256": "691bdcb4c43b6a913a3d7b6849cd4269162f85632b73800e75f8462a2dd5fb0a",
+      "page_url": "https://pastelki.club/en/image/turbina-wiatrowa",
+      "raw_url": "https://raw.githubusercontent.com/tobob/pastelki-assets/main/svg/natura/turbina-wiatrowa.svg",
+      "site_svg_url": "https://pastelki.club/files/turbina-wiatrowa/turbina-wiatrowa-v2.svg",
+      "site_png_url": "https://pastelki.club/files/turbina-wiatrowa/turbina-wiatrowa-v2.png"
+    },
+    {
       "slug": "zaba-z-parasolka",
       "title": {
         "pl": "żaba z parasolką",
@@ -10064,6 +11409,49 @@
       "site_png_url": "https://pastelki.club/files/gasienica/gasienica-v5.png"
     },
     {
+      "slug": "gasienica-na-galazce",
+      "title": {
+        "pl": "gąsienica na gałązce",
+        "en": "Caterpillar on a twig",
+        "de": "Raupe auf einem Zweig",
+        "fr": "Chenille sur une branche",
+        "es": "Oruga en una ramita",
+        "it": "Bruco su un rametto",
+        "pt": "Lagarta no galho",
+        "nl": "Rups op een takje",
+        "uk": "Гусениця на гілочці",
+        "cs": "Housenka na větvičce",
+        "sk": "Húsenica na vetvičke",
+        "sv": "Larv på en kvist",
+        "ro": "Omidă pe o crenguță",
+        "hu": "Hernyó az ágon",
+        "tr": "Dalda tırtıl",
+        "ja": "えだの上のいもむし",
+        "zh": "树枝上的毛毛虫"
+      },
+      "category": "owady",
+      "tags_pl": [
+        "gąsienica",
+        "gałązka",
+        "owad",
+        "robaczek",
+        "zielony",
+        "natura"
+      ],
+      "color": "green",
+      "color_hex": "#5BB36A",
+      "version": 1,
+      "updated_at": "2026-11-25T08:28:30.149692",
+      "license": "MIT",
+      "file": "svg/owady/gasienica-na-galazce.svg",
+      "bytes": 1530,
+      "sha256": "104324fde587fd26718265203afee73cfebb993db246afe277944008fa6d3176",
+      "page_url": "https://pastelki.club/en/image/gasienica-na-galazce",
+      "raw_url": "https://raw.githubusercontent.com/tobob/pastelki-assets/main/svg/owady/gasienica-na-galazce.svg",
+      "site_svg_url": "https://pastelki.club/files/gasienica-na-galazce/gasienica-na-galazce-v1.svg",
+      "site_png_url": "https://pastelki.club/files/gasienica-na-galazce/gasienica-na-galazce-v1.png"
+    },
+    {
       "slug": "komar",
       "title": {
         "pl": "komar",
@@ -10147,6 +11535,49 @@
       "raw_url": "https://raw.githubusercontent.com/tobob/pastelki-assets/main/svg/owady/konik-polny.svg",
       "site_svg_url": "https://pastelki.club/files/konik-polny/konik-polny-v1.svg",
       "site_png_url": "https://pastelki.club/files/konik-polny/konik-polny-v1.png"
+    },
+    {
+      "slug": "mala-pszczolka-w-ulu",
+      "title": {
+        "pl": "mała pszczółka w ulu",
+        "en": "little bee in a hive",
+        "de": "Bienchen im Bienenstock",
+        "fr": "petite abeille dans la ruche",
+        "es": "abejita en la colmena",
+        "it": "apina nell'alveare",
+        "pt": "abelhinha na colmeia",
+        "nl": "bijtje in de bijenkorf",
+        "uk": "бджілка в вулику",
+        "cs": "včelka v úlu",
+        "sk": "včielka v úli",
+        "sv": "liten bi i kupan",
+        "ro": "albinuță în stup",
+        "hu": "kis méhecske a kaptárban",
+        "tr": "kovandaki küçük arı",
+        "ja": "巣の中のちいさなミツバチ",
+        "zh": "蜂巢里的小蜜蜂"
+      },
+      "category": "owady",
+      "tags_pl": [
+        "pszczółka",
+        "ul",
+        "plaster miodu",
+        "owad",
+        "miód",
+        "sześciokąt"
+      ],
+      "color": "yellow",
+      "color_hex": "#F6C945",
+      "version": 1,
+      "updated_at": "2026-11-25T12:11:58.187098",
+      "license": "MIT",
+      "file": "svg/owady/mala-pszczolka-w-ulu.svg",
+      "bytes": 1767,
+      "sha256": "ffd1473eb7ba63d3bcb77b275e24119c556be60f1d146a685aaf37ef9f373dda",
+      "page_url": "https://pastelki.club/en/image/mala-pszczolka-w-ulu",
+      "raw_url": "https://raw.githubusercontent.com/tobob/pastelki-assets/main/svg/owady/mala-pszczolka-w-ulu.svg",
+      "site_svg_url": "https://pastelki.club/files/mala-pszczolka-w-ulu/mala-pszczolka-w-ulu-v1.svg",
+      "site_png_url": "https://pastelki.club/files/mala-pszczolka-w-ulu/mala-pszczolka-w-ulu-v1.png"
     },
     {
       "slug": "motyl-na-kwiatku",
@@ -11103,6 +12534,90 @@
       "site_png_url": "https://pastelki.club/files/koparka/koparka-v1.png"
     },
     {
+      "slug": "koparka-bohatera",
+      "title": {
+        "pl": "koparka bohatera",
+        "en": "excavator",
+        "de": "Bagger",
+        "fr": "pelleteuse",
+        "es": "excavadora",
+        "it": "escavatore",
+        "pt": "escavadeira",
+        "nl": "graafmachine",
+        "uk": "екскаватор",
+        "cs": "bagr",
+        "sk": "bager",
+        "sv": "grävmaskin",
+        "ro": "excavator",
+        "hu": "kotrógép",
+        "tr": "ekskavatör",
+        "ja": "ショベルカー",
+        "zh": "挖掘机"
+      },
+      "category": "pojazdy",
+      "tags_pl": [
+        "koparka",
+        "pojazd",
+        "budowa",
+        "łyżka",
+        "gąsienice"
+      ],
+      "color": "yellow",
+      "color_hex": "#F6C945",
+      "version": 1,
+      "updated_at": "2026-11-25T09:35:47.846869",
+      "license": "MIT",
+      "file": "svg/pojazdy/koparka-bohatera.svg",
+      "bytes": 1092,
+      "sha256": "ca5ab1026e4563a63b5268fd14ef7ac2cc536f669e8ba1c83db32639fd55dd62",
+      "page_url": "https://pastelki.club/en/image/koparka-bohatera",
+      "raw_url": "https://raw.githubusercontent.com/tobob/pastelki-assets/main/svg/pojazdy/koparka-bohatera.svg",
+      "site_svg_url": "https://pastelki.club/files/koparka-bohatera/koparka-bohatera-v1.svg",
+      "site_png_url": "https://pastelki.club/files/koparka-bohatera/koparka-bohatera-v1.png"
+    },
+    {
+      "slug": "maly-woz-z-dynia",
+      "title": {
+        "pl": "mały wóz z dynią",
+        "en": "pumpkin cart",
+        "de": "Wagen mit Kürbis",
+        "fr": "charrette à citrouille",
+        "es": "carretilla con calabaza",
+        "it": "carretto con la zucca",
+        "pt": "carrinho com abóbora",
+        "nl": "kar met pompoen",
+        "uk": "візок з гарбузом",
+        "cs": "vozík s dýní",
+        "sk": "vozík s tekvicou",
+        "sv": "vagn med pumpa",
+        "ro": "căruță cu dovleac",
+        "hu": "kiskocsi tökkel",
+        "tr": "balkabaklı araba",
+        "ja": "かぼちゃのにぐるま",
+        "zh": "南瓜小推车"
+      },
+      "category": "pojazdy",
+      "tags_pl": [
+        "wóz",
+        "dynia",
+        "wózek",
+        "jesień",
+        "drewniany"
+      ],
+      "color": "orange",
+      "color_hex": "#F28C38",
+      "version": 1,
+      "updated_at": "2026-11-25T08:28:44.298232",
+      "license": "MIT",
+      "file": "svg/pojazdy/maly-woz-z-dynia.svg",
+      "bytes": 1034,
+      "sha256": "082fc350c3805108a15e6cdb27b6bc061429be260b89e57a6cd2c004c349f81b",
+      "page_url": "https://pastelki.club/en/image/maly-woz-z-dynia",
+      "raw_url": "https://raw.githubusercontent.com/tobob/pastelki-assets/main/svg/pojazdy/maly-woz-z-dynia.svg",
+      "site_svg_url": "https://pastelki.club/files/maly-woz-z-dynia/maly-woz-z-dynia-v1.svg",
+      "site_png_url": "https://pastelki.club/files/maly-woz-z-dynia/maly-woz-z-dynia-v1.png"
+    },
+    {
       "slug": "rakieta",
       "title": {
         "pl": "rakieta",
@@ -11522,6 +13037,49 @@
       "site_png_url": "https://pastelki.club/files/zolta-koparko-ladowarka/zolta-koparko-ladowarka-v1.png"
     },
     {
+      "slug": "balwan-na-lyzwach",
+      "title": {
+        "pl": "bałwan na łyżwach",
+        "en": "snowman ice skating",
+        "de": "Schneemann auf Schlittschuhen",
+        "fr": "bonhomme de neige en patins",
+        "es": "muñeco de nieve patinando",
+        "it": "pupazzo di neve sui pattini",
+        "pt": "boneco de neve a patinar",
+        "nl": "sneeuwpop op schaatsen",
+        "uk": "сніговик на ковзанах",
+        "cs": "sněhulák na bruslích",
+        "sk": "snehuliak na korčuliach",
+        "sv": "snögubbe på skridskor",
+        "ro": "om de zăpadă pe patine",
+        "hu": "hóember korcsolyán",
+        "tr": "buz pateni yapan kardan adam",
+        "ja": "スケートをするゆきだるま",
+        "zh": "滑冰的雪人"
+      },
+      "category": "sport",
+      "tags_pl": [
+        "bałwan",
+        "łyżwy",
+        "zima",
+        "szalik",
+        "marchewka",
+        "lodowisko"
+      ],
+      "color": "white",
+      "color_hex": "#FAF7F0",
+      "version": 1,
+      "updated_at": "2026-11-25T08:28:39.204081",
+      "license": "MIT",
+      "file": "svg/sport/balwan-na-lyzwach.svg",
+      "bytes": 1931,
+      "sha256": "3ffc9a415e616c04d00ec4d2f30dc373ce3fd39641628da1b0c4c6e335a51a6f",
+      "page_url": "https://pastelki.club/en/image/balwan-na-lyzwach",
+      "raw_url": "https://raw.githubusercontent.com/tobob/pastelki-assets/main/svg/sport/balwan-na-lyzwach.svg",
+      "site_svg_url": "https://pastelki.club/files/balwan-na-lyzwach/balwan-na-lyzwach-v1.svg",
+      "site_png_url": "https://pastelki.club/files/balwan-na-lyzwach/balwan-na-lyzwach-v1.png"
+    },
+    {
       "slug": "banki-mydlane",
       "title": {
         "pl": "bańki mydlane",
@@ -11563,6 +13121,49 @@
       "raw_url": "https://raw.githubusercontent.com/tobob/pastelki-assets/main/svg/sport/banki-mydlane.svg",
       "site_svg_url": "https://pastelki.club/files/banki-mydlane/banki-mydlane-v3.svg",
       "site_png_url": "https://pastelki.club/files/banki-mydlane/banki-mydlane-v3.png"
+    },
+    {
+      "slug": "dmuchane-kolko-do-plywania",
+      "title": {
+        "pl": "dmuchane kółko do pływania",
+        "en": "swim ring",
+        "de": "Schwimmring",
+        "fr": "bouée gonflable",
+        "es": "flotador",
+        "it": "ciambella gonfiabile",
+        "pt": "boia de natação",
+        "nl": "zwemband",
+        "uk": "надувне коло для плавання",
+        "cs": "nafukovací kruh",
+        "sk": "nafukovací kruh",
+        "sv": "badring",
+        "ro": "colac gonflabil",
+        "hu": "úszógumi",
+        "tr": "deniz simidi",
+        "ja": "浮き輪",
+        "zh": "游泳圈"
+      },
+      "category": "sport",
+      "tags_pl": [
+        "kółko",
+        "pływanie",
+        "woda",
+        "lato",
+        "plaża",
+        "dmuchane"
+      ],
+      "color": "pink",
+      "color_hex": "#F29BB8",
+      "version": 2,
+      "updated_at": "2026-11-25T12:18:05.704658",
+      "license": "MIT",
+      "file": "svg/sport/dmuchane-kolko-do-plywania.svg",
+      "bytes": 879,
+      "sha256": "ee23cfb2bcd6a30a7ec58f92b0cf0d38df314ffce341534e0994611f23b4a3db",
+      "page_url": "https://pastelki.club/en/image/dmuchane-kolko-do-plywania",
+      "raw_url": "https://raw.githubusercontent.com/tobob/pastelki-assets/main/svg/sport/dmuchane-kolko-do-plywania.svg",
+      "site_svg_url": "https://pastelki.club/files/dmuchane-kolko-do-plywania/dmuchane-kolko-do-plywania-v2.svg",
+      "site_png_url": "https://pastelki.club/files/dmuchane-kolko-do-plywania/dmuchane-kolko-do-plywania-v2.png"
     },
     {
       "slug": "dzwonek-rowerowy",
@@ -12745,6 +14346,49 @@
       "site_png_url": "https://pastelki.club/files/krasnoludek/krasnoludek-v3.png"
     },
     {
+      "slug": "lampion",
+      "title": {
+        "pl": "lampion",
+        "en": "paper lantern",
+        "de": "Lampion",
+        "fr": "lanterne en papier",
+        "es": "farolillo de papel",
+        "it": "lanterna di carta",
+        "pt": "lanterna de papel",
+        "nl": "lampion",
+        "uk": "паперовий ліхтарик",
+        "cs": "lampion",
+        "sk": "lampión",
+        "sv": "papperslykta",
+        "ro": "lampion",
+        "hu": "lampion",
+        "tr": "kağıt fener",
+        "ja": "ちょうちん",
+        "zh": "纸灯笼"
+      },
+      "category": "swieta",
+      "tags_pl": [
+        "lampion",
+        "lampa",
+        "papier",
+        "święto",
+        "światło",
+        "dekoracja"
+      ],
+      "color": "orange",
+      "color_hex": "#F28C38",
+      "version": 1,
+      "updated_at": "2026-11-25T12:12:04.288523",
+      "license": "MIT",
+      "file": "svg/swieta/lampion.svg",
+      "bytes": 1093,
+      "sha256": "fbdbc9fbb48fe859a44c2866035158018683d2e4786862bbb84600b45fcf16d6",
+      "page_url": "https://pastelki.club/en/image/lampion",
+      "raw_url": "https://raw.githubusercontent.com/tobob/pastelki-assets/main/svg/swieta/lampion.svg",
+      "site_svg_url": "https://pastelki.club/files/lampion/lampion-v1.svg",
+      "site_png_url": "https://pastelki.club/files/lampion/lampion-v1.png"
+    },
+    {
       "slug": "mikolaj",
       "title": {
         "pl": "mikołaj",
@@ -12998,6 +14642,48 @@
       "raw_url": "https://raw.githubusercontent.com/tobob/pastelki-assets/main/svg/swieta/wielkanocny-zajaczek.svg",
       "site_svg_url": "https://pastelki.club/files/wielkanocny-zajaczek/wielkanocny-zajaczek-v1.svg",
       "site_png_url": "https://pastelki.club/files/wielkanocny-zajaczek/wielkanocny-zajaczek-v1.png"
+    },
+    {
+      "slug": "bluza-z-kapturem",
+      "title": {
+        "pl": "bluza z kapturem",
+        "en": "hoodie",
+        "de": "Kapuzenpulli",
+        "fr": "sweat à capuche",
+        "es": "sudadera con capucha",
+        "it": "felpa con cappuccio",
+        "pt": "casaco com capuz",
+        "nl": "hoodie",
+        "uk": "худі",
+        "cs": "mikina s kapucí",
+        "sk": "mikina s kapucňou",
+        "sv": "luvtröja",
+        "ro": "hanorac cu glugă",
+        "hu": "kapucnis pulóver",
+        "tr": "kapüşonlu sweatshirt",
+        "ja": "フード付きパーカー",
+        "zh": "连帽衫"
+      },
+      "category": "ubrania",
+      "tags_pl": [
+        "bluza",
+        "kaptur",
+        "ubranie",
+        "kieszeń",
+        "niebieski"
+      ],
+      "color": "blue",
+      "color_hex": "#4A90D9",
+      "version": 1,
+      "updated_at": "2026-11-25T08:28:28.895305",
+      "license": "MIT",
+      "file": "svg/ubrania/bluza-z-kapturem.svg",
+      "bytes": 1019,
+      "sha256": "c33a2612cdcf3f1dda274ecd0ebe25c445262c64e2231ec032eeeaa2eed245d8",
+      "page_url": "https://pastelki.club/en/image/bluza-z-kapturem",
+      "raw_url": "https://raw.githubusercontent.com/tobob/pastelki-assets/main/svg/ubrania/bluza-z-kapturem.svg",
+      "site_svg_url": "https://pastelki.club/files/bluza-z-kapturem/bluza-z-kapturem-v1.svg",
+      "site_png_url": "https://pastelki.club/files/bluza-z-kapturem/bluza-z-kapturem-v1.png"
     },
     {
       "slug": "boot",
@@ -14388,6 +16074,48 @@
       "site_png_url": "https://pastelki.club/files/koparka-zabawka/koparka-zabawka-v1.png"
     },
     {
+      "slug": "koparka-zabawka-z-wiaderkiem",
+      "title": {
+        "pl": "koparka-zabawka z wiaderkiem",
+        "en": "toy digger with a bucket",
+        "de": "Spielzeugbagger mit Eimer",
+        "fr": "pelleteuse jouet avec un seau",
+        "es": "excavadora de juguete con cubo",
+        "it": "scavatrice giocattolo con secchiello",
+        "pt": "escavadora de brinquedo com balde",
+        "nl": "speelgoedgraafmachine met emmertje",
+        "uk": "іграшковий екскаватор з відерцем",
+        "cs": "hračka bagr s kbelíkem",
+        "sk": "hračka bager s vedierkom",
+        "sv": "leksaksgrävmaskin med hink",
+        "ro": "excavator de jucărie cu găleată",
+        "hu": "játék kotrógép vödörrel",
+        "tr": "kovalı oyuncak kepçe",
+        "ja": "バケツとショベルカーのおもちゃ",
+        "zh": "玩具挖掘机和小桶"
+      },
+      "category": "zabawki",
+      "tags_pl": [
+        "koparka",
+        "wiaderko",
+        "zabawka",
+        "piaskownica",
+        "pojazd"
+      ],
+      "color": "yellow",
+      "color_hex": "#F6C945",
+      "version": 1,
+      "updated_at": "2026-11-25T08:28:47.956299",
+      "license": "MIT",
+      "file": "svg/zabawki/koparka-zabawka-z-wiaderkiem.svg",
+      "bytes": 1313,
+      "sha256": "3fb51dee3d58407bd4cf7a705333d61b5a9afd98b71870147a34bbd7029cef43",
+      "page_url": "https://pastelki.club/en/image/koparka-zabawka-z-wiaderkiem",
+      "raw_url": "https://raw.githubusercontent.com/tobob/pastelki-assets/main/svg/zabawki/koparka-zabawka-z-wiaderkiem.svg",
+      "site_svg_url": "https://pastelki.club/files/koparka-zabawka-z-wiaderkiem/koparka-zabawka-z-wiaderkiem-v1.svg",
+      "site_png_url": "https://pastelki.club/files/koparka-zabawka-z-wiaderkiem/koparka-zabawka-z-wiaderkiem-v1.png"
+    },
+    {
       "slug": "party-hat",
       "title": {
         "pl": "czapeczka urodzinowa",
@@ -14430,6 +16158,49 @@
       "site_png_url": "https://pastelki.club/files/party-hat/party-hat-v2.png"
     },
     {
+      "slug": "pluszowa-zyrafa",
+      "title": {
+        "pl": "pluszowa żyrafa",
+        "en": "plush giraffe",
+        "de": "Plüsch-Giraffe",
+        "fr": "girafe en peluche",
+        "es": "jirafa de peluche",
+        "it": "giraffa di peluche",
+        "pt": "girafa de pelúcia",
+        "nl": "pluchen giraf",
+        "uk": "плюшева жирафа",
+        "cs": "plyšová žirafa",
+        "sk": "plyšová žirafa",
+        "sv": "gosedjursgiraff",
+        "ro": "girafă de pluș",
+        "hu": "plüss zsiráf",
+        "tr": "peluş zürafa",
+        "ja": "きりんのぬいぐるみ",
+        "zh": "毛绒长颈鹿"
+      },
+      "category": "zabawki",
+      "tags_pl": [
+        "żyrafa",
+        "pluszak",
+        "zabawka",
+        "przytulanka",
+        "siedząca",
+        "szwy"
+      ],
+      "color": "yellow",
+      "color_hex": "#F6C945",
+      "version": 1,
+      "updated_at": "2026-11-25T08:28:27.671532",
+      "license": "MIT",
+      "file": "svg/zabawki/pluszowa-zyrafa.svg",
+      "bytes": 1825,
+      "sha256": "a8d22dc1bfa181e5cff1bc5fc8cdf69899df33eb772f0749d688eff100bd6898",
+      "page_url": "https://pastelki.club/en/image/pluszowa-zyrafa",
+      "raw_url": "https://raw.githubusercontent.com/tobob/pastelki-assets/main/svg/zabawki/pluszowa-zyrafa.svg",
+      "site_svg_url": "https://pastelki.club/files/pluszowa-zyrafa/pluszowa-zyrafa-v1.svg",
+      "site_png_url": "https://pastelki.club/files/pluszowa-zyrafa/pluszowa-zyrafa-v1.png"
+    },
+    {
       "slug": "pluszowy-krolik",
       "title": {
         "pl": "pluszowy królik",
@@ -14470,6 +16241,49 @@
       "raw_url": "https://raw.githubusercontent.com/tobob/pastelki-assets/main/svg/zabawki/pluszowy-krolik.svg",
       "site_svg_url": "https://pastelki.club/files/pluszowy-krolik/pluszowy-krolik-v1.svg",
       "site_png_url": "https://pastelki.club/files/pluszowy-krolik/pluszowy-krolik-v1.png"
+    },
+    {
+      "slug": "pluszowy-slon",
+      "title": {
+        "pl": "pluszowy słoń",
+        "en": "plush elephant",
+        "de": "Stoffelefant",
+        "fr": "éléphant en peluche",
+        "es": "elefante de peluche",
+        "it": "elefante di peluche",
+        "pt": "elefante de pelúcia",
+        "nl": "pluchen olifant",
+        "uk": "плюшевий слон",
+        "cs": "plyšový slon",
+        "sk": "plyšový slon",
+        "sv": "gosedjurselefant",
+        "ro": "elefant de pluș",
+        "hu": "plüss elefánt",
+        "tr": "peluş fil",
+        "ja": "ぬいぐるみのぞう",
+        "zh": "毛绒大象"
+      },
+      "category": "zabawki",
+      "tags_pl": [
+        "słoń",
+        "pluszak",
+        "zabawka",
+        "trąba",
+        "szare uszy",
+        "szwy"
+      ],
+      "color": "grey",
+      "color_hex": "#A3A7AE",
+      "version": 1,
+      "updated_at": "2026-11-25T12:11:59.314995",
+      "license": "MIT",
+      "file": "svg/zabawki/pluszowy-slon.svg",
+      "bytes": 2099,
+      "sha256": "225ceb66904eaad71cb661d40657cdf626b0500373bb5a92eb13b7dd533128b9",
+      "page_url": "https://pastelki.club/en/image/pluszowy-slon",
+      "raw_url": "https://raw.githubusercontent.com/tobob/pastelki-assets/main/svg/zabawki/pluszowy-slon.svg",
+      "site_svg_url": "https://pastelki.club/files/pluszowy-slon/pluszowy-slon-v1.svg",
+      "site_png_url": "https://pastelki.club/files/pluszowy-slon/pluszowy-slon-v1.png"
     },
     {
       "slug": "rakieta-zabawka",

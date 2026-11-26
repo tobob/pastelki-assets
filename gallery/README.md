@@ -5,20 +5,20 @@
 | Category | | Pictures |
 |---|---|--:|
 | [Animals](zwierzeta.md) | Zwierzęta | 62 |
-| [Baby animals](maluchy.md) | Zwierzęce maluchy | 24 |
+| [Baby animals](maluchy.md) | Zwierzęce maluchy | 26 |
 | [Animal faces](buzki.md) | Zwierzęce buźki | 21 |
-| [Food](jedzenie.md) | Jedzenie | 35 |
-| [Nature & weather](natura.md) | Natura i pogoda | 27 |
-| [Houses & places](domki.md) | Domki i miejsca | 20 |
-| [Vehicles](pojazdy.md) | Pojazdy | 19 |
-| [Clothes](ubrania.md) | Ubranka | 23 |
-| [At home](dom.md) | W domu | 25 |
-| [Toys](zabawki.md) | Zabawki | 22 |
-| [Sea creatures](morze.md) | Morskie stworzenia | 17 |
-| [Bugs & insects](owady.md) | Owady i robaczki | 19 |
+| [Food](jedzenie.md) | Jedzenie | 39 |
+| [Nature & weather](natura.md) | Natura i pogoda | 37 |
+| [Houses & places](domki.md) | Domki i miejsca | 22 |
+| [Vehicles](pojazdy.md) | Pojazdy | 21 |
+| [Clothes](ubrania.md) | Ubranka | 24 |
+| [At home](dom.md) | W domu | 29 |
+| [Toys](zabawki.md) | Zabawki | 25 |
+| [Sea creatures](morze.md) | Morskie stworzenia | 19 |
+| [Bugs & insects](owady.md) | Owady i robaczki | 21 |
 | [Dinosaurs](dinozaury.md) | Dinozaury | 11 |
-| [Space](kosmos.md) | Kosmos | 19 |
-| [Music](muzyka.md) | Muzyka | 22 |
-| [Faces & feelings](emocje.md) | Buzie i emocje | 12 |
-| [Celebrations](swieta.md) | Święta i przyjęcia | 17 |
-| [Sports & play](sport.md) | Sport i ruch | 18 |
+| [Space](kosmos.md) | Kosmos | 21 |
+| [Music](muzyka.md) | Muzyka | 25 |
+| [Faces & feelings](emocje.md) | Buzie i emocje | 15 |
+| [Celebrations](swieta.md) | Święta i przyjęcia | 18 |
+| [Sports & play](sport.md) | Sport i ruch | 20 |

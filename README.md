@@ -139,13 +139,13 @@ python3 scripts/sync.py --check   # only report differences
 
 <!-- gallery:start -->
 
-**413 pictures in 18 categories.** Click a category for every picture with its name and download links.
+**456 pictures in 18 categories.** Click a category for every picture with its name and download links.
 
 **[Animals](gallery/zwierzeta.md)** · Zwierzęta · 62
 
 <img src="svg/zwierzeta/alpaka.svg" width="64" alt="Alpaca"> <img src="svg/zwierzeta/bazant.svg" width="64" alt="Pheasant"> <img src="svg/zwierzeta/bear.svg" width="64" alt="Bear"> <img src="svg/zwierzeta/bee.svg" width="64" alt="Bee"> <img src="svg/zwierzeta/bird.svg" width="64" alt="Bird"> <img src="svg/zwierzeta/bobr.svg" width="64" alt="Beaver"> <img src="svg/zwierzeta/bocian.svg" width="64" alt="Stork"> <img src="svg/zwierzeta/butterfly.svg" width="64" alt="Butterfly">
 
-**[Baby animals](gallery/maluchy.md)** · Zwierzęce maluchy · 24
+**[Baby animals](gallery/maluchy.md)** · Zwierzęce maluchy · 26
 
 <img src="svg/maluchy/chick.svg" width="64" alt="Chick"> <img src="svg/maluchy/chomik.svg" width="64" alt="Hamster"> <img src="svg/maluchy/cielatko.svg" width="64" alt="Little calf"> <img src="svg/maluchy/duckling.svg" width="64" alt="Duckling"> <img src="svg/maluchy/dzik.svg" width="64" alt="Baby wild boar"> <img src="svg/maluchy/foka-maluch.svg" width="64" alt="Baby seal"> <img src="svg/maluchy/golabek-w-gniezdzie.svg" width="64" alt="Little pigeon in a nest"> <img src="svg/maluchy/jezyk.svg" width="64" alt="Baby hedgehog">
 
@@ -153,64 +153,64 @@ python3 scripts/sync.py --check   # only report differences
 
 <img src="svg/buzki/buzka-kota.svg" width="64" alt="Cat face"> <img src="svg/buzki/buzka-krolika.svg" width="64" alt="Rabbit face"> <img src="svg/buzki/buzka-pandy.svg" width="64" alt="Panda face"> <img src="svg/buzki/buzka-psa.svg" width="64" alt="Dog face"> <img src="svg/buzki/buzka-swinki.svg" width="64" alt="Pig face"> <img src="svg/buzki/buzka-tygrysiatka.svg" width="64" alt="Tiger cub face"> <img src="svg/buzki/buzka-zaby.svg" width="64" alt="Frog face"> <img src="svg/buzki/calf.svg" width="64" alt="Calf">
 
-**[Food](gallery/jedzenie.md)** · Jedzenie · 35
+**[Food](gallery/jedzenie.md)** · Jedzenie · 39
 
-<img src="svg/jedzenie/ananas.svg" width="64" alt="Pineapple"> <img src="svg/jedzenie/apple.svg" width="64" alt="Apple"> <img src="svg/jedzenie/banana.svg" width="64" alt="Banana"> <img src="svg/jedzenie/blueberries.svg" width="64" alt="Blueberries"> <img src="svg/jedzenie/bone.svg" width="64" alt="Bone"> <img src="svg/jedzenie/bread.svg" width="64" alt="Bread"> <img src="svg/jedzenie/brokul.svg" width="64" alt="Broccoli"> <img src="svg/jedzenie/cake.svg" width="64" alt="Cake">
+<img src="svg/jedzenie/ananas.svg" width="64" alt="Pineapple"> <img src="svg/jedzenie/ananas-w-okularach.svg" width="64" alt="Pineapple with sunglasses"> <img src="svg/jedzenie/apple.svg" width="64" alt="Apple"> <img src="svg/jedzenie/banana.svg" width="64" alt="Banana"> <img src="svg/jedzenie/blueberries.svg" width="64" alt="Blueberries"> <img src="svg/jedzenie/bone.svg" width="64" alt="Bone"> <img src="svg/jedzenie/bread.svg" width="64" alt="Bread"> <img src="svg/jedzenie/brokul.svg" width="64" alt="Broccoli">
 
-**[Nature & weather](gallery/natura.md)** · Natura i pogoda · 27
+**[Nature & weather](gallery/natura.md)** · Natura i pogoda · 37
 
-<img src="svg/natura/acorn.svg" width="64" alt="Acorn"> <img src="svg/natura/cloud.svg" width="64" alt="Cloud"> <img src="svg/natura/dmuchawiec.svg" width="64" alt="Dandelion clock"> <img src="svg/natura/flower.svg" width="64" alt="Flower"> <img src="svg/natura/iceberg.svg" width="64" alt="Iceberg"> <img src="svg/natura/kaczka-na-stawie.svg" width="64" alt="Duck on a pond"> <img src="svg/natura/kaktus.svg" width="64" alt="Cactus in a pot"> <img src="svg/natura/kamien.svg" width="64" alt="Stone">
+<img src="svg/natura/acorn.svg" width="64" alt="Acorn"> <img src="svg/natura/cebulka-tulipana.svg" width="64" alt="Tulip bulb"> <img src="svg/natura/cloud.svg" width="64" alt="Cloud"> <img src="svg/natura/dmuchawiec.svg" width="64" alt="Dandelion clock"> <img src="svg/natura/flower.svg" width="64" alt="Flower"> <img src="svg/natura/iceberg.svg" width="64" alt="Iceberg"> <img src="svg/natura/jablon-jesien.svg" width="64" alt="Apple tree in autumn"> <img src="svg/natura/jablon-wiosna.svg" width="64" alt="Apple tree in spring">
 
-**[Houses & places](gallery/domki.md)** · Domki i miejsca · 20
+**[Houses & places](gallery/domki.md)** · Domki i miejsca · 22
 
 <img src="svg/domki/barn.svg" width="64" alt="Barn"> <img src="svg/domki/beehive.svg" width="64" alt="Beehive"> <img src="svg/domki/doghouse.svg" width="64" alt="Doghouse"> <img src="svg/domki/domek-dla-ptakow.svg" width="64" alt="Birdhouse"> <img src="svg/domki/domek-na-drzewie.svg" width="64" alt="Treehouse"> <img src="svg/domki/house.svg" width="64" alt="House"> <img src="svg/domki/hutch.svg" width="64" alt="Rabbit hutch"> <img src="svg/domki/kennel-bowl.svg" width="64" alt="Pet bowl">
 
-**[Vehicles](gallery/pojazdy.md)** · Pojazdy · 19
+**[Vehicles](gallery/pojazdy.md)** · Pojazdy · 21
 
 <img src="svg/pojazdy/airplane.svg" width="64" alt="Airplane"> <img src="svg/pojazdy/autobus.svg" width="64" alt="Bus"> <img src="svg/pojazdy/bicycle.svg" width="64" alt="Bicycle"> <img src="svg/pojazdy/boat.svg" width="64" alt="Boat"> <img src="svg/pojazdy/car.svg" width="64" alt="Car"> <img src="svg/pojazdy/dzieciecy-wozek.svg" width="64" alt="Doll's pram"> <img src="svg/pojazdy/dzwig.svg" width="64" alt="Crane"> <img src="svg/pojazdy/helikopter.svg" width="64" alt="Helicopter">
 
-**[Clothes](gallery/ubrania.md)** · Ubranka · 23
+**[Clothes](gallery/ubrania.md)** · Ubranka · 24
 
-<img src="svg/ubrania/boot.svg" width="64" alt="Rain boot"> <img src="svg/ubrania/czapka-z-daszkiem.svg" width="64" alt="Baseball cap"> <img src="svg/ubrania/hat.svg" width="64" alt="Hat"> <img src="svg/ubrania/kapcie.svg" width="64" alt="Slipper"> <img src="svg/ubrania/kapelusz-czarodzieja-z-gwiazdkami.svg" width="64" alt="Wizard hat with stars"> <img src="svg/ubrania/kapelusz-kowbojski.svg" width="64" alt="Cowboy hat"> <img src="svg/ubrania/kapelusz-slomkowy.svg" width="64" alt="Straw hat"> <img src="svg/ubrania/kombinezon.svg" width="64" alt="Romper">
+<img src="svg/ubrania/bluza-z-kapturem.svg" width="64" alt="Hoodie"> <img src="svg/ubrania/boot.svg" width="64" alt="Rain boot"> <img src="svg/ubrania/czapka-z-daszkiem.svg" width="64" alt="Baseball cap"> <img src="svg/ubrania/hat.svg" width="64" alt="Hat"> <img src="svg/ubrania/kapcie.svg" width="64" alt="Slipper"> <img src="svg/ubrania/kapelusz-czarodzieja-z-gwiazdkami.svg" width="64" alt="Wizard hat with stars"> <img src="svg/ubrania/kapelusz-kowbojski.svg" width="64" alt="Cowboy hat"> <img src="svg/ubrania/kapelusz-slomkowy.svg" width="64" alt="Straw hat">
 
-**[At home](gallery/dom.md)** · W domu · 25
+**[At home](gallery/dom.md)** · W domu · 29
 
-<img src="svg/dom/bed.svg" width="64" alt="Bed"> <img src="svg/dom/book.svg" width="64" alt="Book"> <img src="svg/dom/clock.svg" width="64" alt="Clock"> <img src="svg/dom/crayon.svg" width="64" alt="Crayon"> <img src="svg/dom/cup.svg" width="64" alt="Cup"> <img src="svg/dom/kapibara-w-kapieli.svg" width="64" alt="Capybara in the bath"> <img src="svg/dom/key.svg" width="64" alt="Key"> <img src="svg/dom/koc-piknikowy.svg" width="64" alt="Picnic blanket">
+<img src="svg/dom/bed.svg" width="64" alt="Bed"> <img src="svg/dom/book.svg" width="64" alt="Book"> <img src="svg/dom/chusteczka.svg" width="64" alt="Tissue"> <img src="svg/dom/clock.svg" width="64" alt="Clock"> <img src="svg/dom/crayon.svg" width="64" alt="Crayon"> <img src="svg/dom/cup.svg" width="64" alt="Cup"> <img src="svg/dom/kalamarz-z-piorkiem.svg" width="64" alt="Inkwell with a feather"> <img src="svg/dom/kapibara-w-kapieli.svg" width="64" alt="Capybara in the bath">
 
-**[Toys](gallery/zabawki.md)** · Zabawki · 22
+**[Toys](gallery/zabawki.md)** · Zabawki · 25
 
 <img src="svg/zabawki/baczek.svg" width="64" alt="Spinning top"> <img src="svg/zabawki/ball.svg" width="64" alt="Ball"> <img src="svg/zabawki/balloon.svg" width="64" alt="Balloon"> <img src="svg/zabawki/block.svg" width="64" alt="Toy block"> <img src="svg/zabawki/bucket.svg" width="64" alt="Bucket"> <img src="svg/zabawki/drum.svg" width="64" alt="Drum"> <img src="svg/zabawki/gift.svg" width="64" alt="Gift"> <img src="svg/zabawki/grzechotka.svg" width="64" alt="Rattle">
 
-**[Sea creatures](gallery/morze.md)** · Morskie stworzenia · 17
+**[Sea creatures](gallery/morze.md)** · Morskie stworzenia · 19
 
-<img src="svg/morze/kalamarnica.svg" width="64" alt="Squid"> <img src="svg/morze/konik-morski.svg" width="64" alt="Seahorse"> <img src="svg/morze/krewetka.svg" width="64" alt="Shrimp"> <img src="svg/morze/lodz-podwodna.svg" width="64" alt="Submarine"> <img src="svg/morze/meduza.svg" width="64" alt="Jellyfish"> <img src="svg/morze/mewa.svg" width="64" alt="Seagull"> <img src="svg/morze/mors-2.svg" width="64" alt="Walrus"> <img src="svg/morze/narwal.svg" width="64" alt="Narwhal">
+<img src="svg/morze/kalamarnica.svg" width="64" alt="Squid"> <img src="svg/morze/kalamarnica-w-okularach.svg" width="64" alt="Squid with glasses"> <img src="svg/morze/konik-morski.svg" width="64" alt="Seahorse"> <img src="svg/morze/krewetka.svg" width="64" alt="Shrimp"> <img src="svg/morze/lodz-podwodna.svg" width="64" alt="Submarine"> <img src="svg/morze/meduza.svg" width="64" alt="Jellyfish"> <img src="svg/morze/mewa.svg" width="64" alt="Seagull"> <img src="svg/morze/mors-2.svg" width="64" alt="Walrus">
 
-**[Bugs & insects](gallery/owady.md)** · Owady i robaczki · 19
+**[Bugs & insects](gallery/owady.md)** · Owady i robaczki · 21
 
-<img src="svg/owady/biedronka-na-lisciu.svg" width="64" alt="Ladybug on a leaf"> <img src="svg/owady/cykada-na-lisciu.svg" width="64" alt="Cicada on a leaf"> <img src="svg/owady/gasienica.svg" width="64" alt="Caterpillar"> <img src="svg/owady/komar.svg" width="64" alt="Mosquito"> <img src="svg/owady/konik-polny.svg" width="64" alt="Grasshopper"> <img src="svg/owady/motyl-na-kwiatku.svg" width="64" alt="Butterfly on a flower"> <img src="svg/owady/mrowka.svg" width="64" alt="Ant"> <img src="svg/owady/osa.svg" width="64" alt="Wasp">
+<img src="svg/owady/biedronka-na-lisciu.svg" width="64" alt="Ladybug on a leaf"> <img src="svg/owady/cykada-na-lisciu.svg" width="64" alt="Cicada on a leaf"> <img src="svg/owady/gasienica.svg" width="64" alt="Caterpillar"> <img src="svg/owady/gasienica-na-galazce.svg" width="64" alt="Caterpillar on a twig"> <img src="svg/owady/komar.svg" width="64" alt="Mosquito"> <img src="svg/owady/konik-polny.svg" width="64" alt="Grasshopper"> <img src="svg/owady/mala-pszczolka-w-ulu.svg" width="64" alt="Little bee in a hive"> <img src="svg/owady/motyl-na-kwiatku.svg" width="64" alt="Butterfly on a flower">
 
 **[Dinosaurs](gallery/dinozaury.md)** · Dinozaury · 11
 
 <img src="svg/dinozaury/ankylozaur.svg" width="64" alt="Little ankylosaurus"> <img src="svg/dinozaury/dinozaur-z-dluga-szyja.svg" width="64" alt="Long-neck dinosaur"> <img src="svg/dinozaury/dinozaurek-w-skorupce.svg" width="64" alt="Baby dinosaur in an egg"> <img src="svg/dinozaury/dinozaurek-z-kwiatkiem.svg" width="64" alt="Little dinosaur with a flower"> <img src="svg/dinozaury/jajko-dinozaura.svg" width="64" alt="Dinosaur egg"> <img src="svg/dinozaury/maly-pterodaktyl.svg" width="64" alt="Little pterodactyl"> <img src="svg/dinozaury/parazaurolof.svg" width="64" alt="Parasaurolophus"> <img src="svg/dinozaury/smok.svg" width="64" alt="Dragon">
 
-**[Space](gallery/kosmos.md)** · Kosmos · 19
+**[Space](gallery/kosmos.md)** · Kosmos · 21
 
-<img src="svg/kosmos/astronauta-mis.svg" width="64" alt="Astronaut teddy bear"> <img src="svg/kosmos/gwiazda-polarna.svg" width="64" alt="Bright star"> <img src="svg/kosmos/gwiazda-spadajaca.svg" width="64" alt="Shooting star"> <img src="svg/kosmos/gwiazdozbior-wielkiego-wozu.svg" width="64" alt="Big dipper"> <img src="svg/kosmos/helm-astronauty.svg" width="64" alt="Space helmet"> <img src="svg/kosmos/kometa.svg" width="64" alt="Comet"> <img src="svg/kosmos/kosmiczna-kometa-z-ogonem.svg" width="64" alt="Comet with a tail"> <img src="svg/kosmos/ksiezycowy-lazik.svg" width="64" alt="Moon rover">
+<img src="svg/kosmos/astronauta-mis.svg" width="64" alt="Astronaut teddy bear"> <img src="svg/kosmos/gwiazda-polarna.svg" width="64" alt="Bright star"> <img src="svg/kosmos/gwiazda-spadajaca.svg" width="64" alt="Shooting star"> <img src="svg/kosmos/gwiazdozbior-wielkiego-wozu.svg" width="64" alt="Big dipper"> <img src="svg/kosmos/helm-astronauty.svg" width="64" alt="Space helmet"> <img src="svg/kosmos/kometa.svg" width="64" alt="Comet"> <img src="svg/kosmos/kometa-z-kolorowym-ogonem.svg" width="64" alt="Colourful comet"> <img src="svg/kosmos/kosmiczna-kometa-z-ogonem.svg" width="64" alt="Comet with a tail">
 
-**[Music](gallery/muzyka.md)** · Muzyka · 22
+**[Music](gallery/muzyka.md)** · Muzyka · 25
 
-<img src="svg/muzyka/akordeon.svg" width="64" alt="Accordion"> <img src="svg/muzyka/beben-perkusyjny.svg" width="64" alt="Drum"> <img src="svg/muzyka/bebenek-marszowy.svg" width="64" alt="Drum"> <img src="svg/muzyka/bebenek-tamburyn.svg" width="64" alt="Tambourine"> <img src="svg/muzyka/bebenek-z-paleczkami.svg" width="64" alt="Drum with sticks"> <img src="svg/muzyka/cymbalki.svg" width="64" alt="Xylophone"> <img src="svg/muzyka/flet.svg" width="64" alt="Flute"> <img src="svg/muzyka/gitara.svg" width="64" alt="Guitar">
+<img src="svg/muzyka/akordeon.svg" width="64" alt="Accordion"> <img src="svg/muzyka/beben-perkusyjny.svg" width="64" alt="Drum"> <img src="svg/muzyka/bebenek-marszowy.svg" width="64" alt="Drum"> <img src="svg/muzyka/bebenek-tamburyn.svg" width="64" alt="Tambourine"> <img src="svg/muzyka/bebenek-z-paleczkami.svg" width="64" alt="Drum with sticks"> <img src="svg/muzyka/cymbalki.svg" width="64" alt="Xylophone"> <img src="svg/muzyka/flet.svg" width="64" alt="Flute"> <img src="svg/muzyka/fortepian-dla-misia.svg" width="64" alt="Teddy bear at the piano">
 
-**[Faces & feelings](gallery/emocje.md)** · Buzie i emocje · 12
+**[Faces & feelings](gallery/emocje.md)** · Buzie i emocje · 15
 
-<img src="svg/emocje/buzia-ze-lza-ze-szczescia.svg" width="64" alt="Happy tears face"> <img src="svg/emocje/pingwinek-z-kokardka.svg" width="64" alt="Penguin with a bow"> <img src="svg/emocje/smutna-buzia.svg" width="64" alt="Sad face"> <img src="svg/emocje/smutna-buzia-z-lezka.svg" width="64" alt="Sad face with a tear"> <img src="svg/emocje/spiaca-buzia.svg" width="64" alt="Sleepy face"> <img src="svg/emocje/usmiechnieta-buzia.svg" width="64" alt="Smiley face"> <img src="svg/emocje/usmiechnieta-chmurka.svg" width="64" alt="Happy cloud"> <img src="svg/emocje/wesola-buzia-z-jezykiem.svg" width="64" alt="Silly face with tongue out">
+<img src="svg/emocje/buzia-ze-lza-ze-szczescia.svg" width="64" alt="Happy tears face"> <img src="svg/emocje/pingwinek-z-kokardka.svg" width="64" alt="Penguin with a bow"> <img src="svg/emocje/smutna-buzia.svg" width="64" alt="Sad face"> <img src="svg/emocje/smutna-buzia-z-lezka.svg" width="64" alt="Sad face with a tear"> <img src="svg/emocje/smutna-chmurka.svg" width="64" alt="Sad cloud"> <img src="svg/emocje/smutny-deszczowy-obloczek.svg" width="64" alt="Sad little rain cloud"> <img src="svg/emocje/spiaca-buzia.svg" width="64" alt="Sleepy face"> <img src="svg/emocje/usmiechnieta-buzia.svg" width="64" alt="Smiley face">
 
-**[Celebrations](gallery/swieta.md)** · Święta i przyjęcia · 17
+**[Celebrations](gallery/swieta.md)** · Święta i przyjęcia · 18
 
 <img src="svg/swieta/balony.svg" width="64" alt="Balloons"> <img src="svg/swieta/balwanek-z-miotla.svg" width="64" alt="Snowman with a broom"> <img src="svg/swieta/choinka.svg" width="64" alt="Christmas tree"> <img src="svg/swieta/choinkowa-bombka.svg" width="64" alt="Christmas bauble"> <img src="svg/swieta/czapka-mikolaja.svg" width="64" alt="Santa hat"> <img src="svg/swieta/dyniowa-lampa.svg" width="64" alt="Pumpkin lantern"> <img src="svg/swieta/dzwonek.svg" width="64" alt="Bell"> <img src="svg/swieta/fajerwerk.svg" width="64" alt="Firework">
 
-**[Sports & play](gallery/sport.md)** · Sport i ruch · 18
+**[Sports & play](gallery/sport.md)** · Sport i ruch · 20
 
-<img src="svg/sport/banki-mydlane.svg" width="64" alt="Soap bubbles"> <img src="svg/sport/dzwonek-rowerowy.svg" width="64" alt="Bicycle bell"> <img src="svg/sport/hulajnoga.svg" width="64" alt="Scooter"> <img src="svg/sport/hustawka.svg" width="64" alt="Swing"> <img src="svg/sport/koparka-piaskowa.svg" width="64" alt="Toy digger"> <img src="svg/sport/lopata-do-sniegu.svg" width="64" alt="Snow shovel"> <img src="svg/sport/lyzwa.svg" width="64" alt="Ice skate"> <img src="svg/sport/piaskownica.svg" width="64" alt="Sandbox">
+<img src="svg/sport/balwan-na-lyzwach.svg" width="64" alt="Snowman ice skating"> <img src="svg/sport/banki-mydlane.svg" width="64" alt="Soap bubbles"> <img src="svg/sport/dmuchane-kolko-do-plywania.svg" width="64" alt="Swim ring"> <img src="svg/sport/dzwonek-rowerowy.svg" width="64" alt="Bicycle bell"> <img src="svg/sport/hulajnoga.svg" width="64" alt="Scooter"> <img src="svg/sport/hustawka.svg" width="64" alt="Swing"> <img src="svg/sport/koparka-piaskowa.svg" width="64" alt="Toy digger"> <img src="svg/sport/lopata-do-sniegu.svg" width="64" alt="Snow shovel">
 
 <!-- gallery:end -->
