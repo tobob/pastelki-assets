@@ -4,18 +4,18 @@
 
 | Category | | Pictures |
 |---|---|--:|
-| [Animals](zwierzeta.md) | Zwierzęta | 62 |
+| [Animals](zwierzeta.md) | Zwierzęta | 63 |
 | [Baby animals](maluchy.md) | Zwierzęce maluchy | 28 |
 | [Animal faces](buzki.md) | Zwierzęce buźki | 24 |
 | [Food](jedzenie.md) | Jedzenie | 39 |
-| [Nature & weather](natura.md) | Natura i pogoda | 38 |
+| [Nature & weather](natura.md) | Natura i pogoda | 39 |
 | [Houses & places](domki.md) | Domki i miejsca | 24 |
 | [Vehicles](pojazdy.md) | Pojazdy | 23 |
 | [Clothes](ubrania.md) | Ubranka | 28 |
 | [At home](dom.md) | W domu | 32 |
 | [Toys](zabawki.md) | Zabawki | 26 |
 | [Sea creatures](morze.md) | Morskie stworzenia | 20 |
-| [Bugs & insects](owady.md) | Owady i robaczki | 26 |
+| [Bugs & insects](owady.md) | Owady i robaczki | 31 |
 | [Dinosaurs](dinozaury.md) | Dinozaury | 12 |
 | [Space](kosmos.md) | Kosmos | 24 |
 | [Music](muzyka.md) | Muzyka | 25 |

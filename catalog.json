@@ -28,7 +28,7 @@
     "ja",
     "zh"
   ],
-  "count": 490,
+  "count": 497,
   "categories": [
     {
       "id": "zwierzeta",
@@ -51,7 +51,7 @@
         "ja": "どうぶつ",
         "zh": "动物"
       },
-      "count": 62
+      "count": 63
     },
     {
       "id": "maluchy",
@@ -143,7 +143,7 @@
         "ja": "しぜん・てんき",
         "zh": "自然与天气"
       },
-      "count": 38
+      "count": 39
     },
     {
       "id": "domki",
@@ -304,7 +304,7 @@
         "ja": "むし",
         "zh": "昆虫与小虫"
       },
-      "count": 26
+      "count": 31
     },
     {
       "id": "dinozaury",
@@ -11334,6 +11334,49 @@
       "site_png_url": "https://pastelki.club/files/osniezony-szczyt/osniezony-szczyt-v1.png"
     },
     {
+      "slug": "pokrzywa",
+      "title": {
+        "pl": "pokrzywa",
+        "en": "stinging nettle",
+        "de": "Brennnessel",
+        "fr": "ortie",
+        "es": "ortiga",
+        "it": "ortica",
+        "pt": "urtiga",
+        "nl": "brandnetel",
+        "uk": "кропива",
+        "cs": "kopřiva",
+        "sk": "žihľava",
+        "sv": "nässla",
+        "ro": "urzică",
+        "hu": "csalán",
+        "tr": "ısırgan otu",
+        "ja": "イラクサ",
+        "zh": "荨麻"
+      },
+      "category": "natura",
+      "tags_pl": [
+        "pokrzywa",
+        "roślina",
+        "liście",
+        "łąka",
+        "gąsienice",
+        "motyle"
+      ],
+      "color": "green",
+      "color_hex": "#5BB36A",
+      "version": 1,
+      "updated_at": "2026-11-27T09:01:01.361815",
+      "license": "MIT",
+      "file": "svg/natura/pokrzywa.svg",
+      "bytes": 2731,
+      "sha256": "d7b88bdc969798692e7d52e6baa8dcccf5e5c3a186cb37db8adca7c6e4e341a3",
+      "page_url": "https://pastelki.club/en/image/pokrzywa",
+      "raw_url": "https://raw.githubusercontent.com/tobob/pastelki-assets/main/svg/natura/pokrzywa.svg",
+      "site_svg_url": "https://pastelki.club/files/pokrzywa/pokrzywa-v1.svg",
+      "site_png_url": "https://pastelki.club/files/pokrzywa/pokrzywa-v1.png"
+    },
+    {
       "slug": "pond",
       "title": {
         "pl": "staw",
@@ -12031,16 +12074,16 @@
       ],
       "color": "white",
       "color_hex": "#FAF7F0",
-      "version": 1,
-      "updated_at": "2026-11-26T23:07:51.741647",
+      "version": 2,
+      "updated_at": "2026-11-27T11:57:10.319360",
       "license": "MIT",
       "file": "svg/owady/bielinek.svg",
-      "bytes": 2274,
-      "sha256": "a4de5d8b5d986bef27635646a855baaea112cccb1bfef17d3a0702903a1354ae",
+      "bytes": 2466,
+      "sha256": "acbb045ed7a145b24c74ec4b1a76e9746c91f8ab23f04e55002611e01843f172",
       "page_url": "https://pastelki.club/en/image/bielinek",
       "raw_url": "https://raw.githubusercontent.com/tobob/pastelki-assets/main/svg/owady/bielinek.svg",
-      "site_svg_url": "https://pastelki.club/files/bielinek/bielinek-v1.svg",
-      "site_png_url": "https://pastelki.club/files/bielinek/bielinek-v1.png"
+      "site_svg_url": "https://pastelki.club/files/bielinek/bielinek-v2.svg",
+      "site_png_url": "https://pastelki.club/files/bielinek/bielinek-v2.png"
     },
     {
       "slug": "cykada-na-lisciu",
@@ -12213,6 +12256,92 @@
       "site_png_url": "https://pastelki.club/files/gasienica-na-galazce/gasienica-na-galazce-v1.png"
     },
     {
+      "slug": "gasienica-pawika",
+      "title": {
+        "pl": "gąsienica pawika",
+        "en": "Caterpillar on a leaf",
+        "de": "Raupe auf einem Blatt",
+        "fr": "Chenille sur une feuille",
+        "es": "Oruga en una hoja",
+        "it": "Bruco su una foglia",
+        "pt": "Lagarta na folha",
+        "nl": "Rups op een blad",
+        "uk": "Гусениця на листку",
+        "cs": "Housenka na listu",
+        "sk": "Húsenica na liste",
+        "sv": "Larv på ett blad",
+        "ro": "Omidă pe o frunză",
+        "hu": "Hernyó a levélen",
+        "tr": "Yaprakta tırtıl",
+        "ja": "はっぱのうえのあおむし",
+        "zh": "叶子上的毛毛虫"
+      },
+      "category": "owady",
+      "tags_pl": [
+        "gąsienica",
+        "owad",
+        "liść",
+        "pokrzywa",
+        "motyl",
+        "buzia"
+      ],
+      "color": "black",
+      "color_hex": "#3A3A44",
+      "version": 1,
+      "updated_at": "2026-11-27T09:01:05.738869",
+      "license": "MIT",
+      "file": "svg/owady/gasienica-pawika.svg",
+      "bytes": 2057,
+      "sha256": "6a3cee933cee808c862e4330f9f6147ed4159a0af36c00953479351a37eef4c6",
+      "page_url": "https://pastelki.club/en/image/gasienica-pawika",
+      "raw_url": "https://raw.githubusercontent.com/tobob/pastelki-assets/main/svg/owady/gasienica-pawika.svg",
+      "site_svg_url": "https://pastelki.club/files/gasienica-pawika/gasienica-pawika-v1.svg",
+      "site_png_url": "https://pastelki.club/files/gasienica-pawika/gasienica-pawika-v1.png"
+    },
+    {
+      "slug": "jajeczka-motyla-na-lisciu",
+      "title": {
+        "pl": "jajeczka motyla na liściu",
+        "en": "butterfly eggs on a leaf",
+        "de": "Schmetterlingseier auf einem Blatt",
+        "fr": "œufs de papillon sur une feuille",
+        "es": "huevos de mariposa en una hoja",
+        "it": "uova di farfalla su una foglia",
+        "pt": "ovos de borboleta numa folha",
+        "nl": "vlindereitjes op een blad",
+        "uk": "яйця метелика на листку",
+        "cs": "vajíčka motýla na listu",
+        "sk": "vajíčka motýľa na liste",
+        "sv": "fjärilsägg på ett blad",
+        "ro": "ouă de fluture pe o frunză",
+        "hu": "pillangótojások egy levélen",
+        "tr": "yaprakta kelebek yumurtaları",
+        "ja": "葉っぱの上のちょうのたまご",
+        "zh": "叶子上的蝴蝶卵"
+      },
+      "category": "owady",
+      "tags_pl": [
+        "jajeczka",
+        "motyl",
+        "liść",
+        "pokrzywa",
+        "owady",
+        "przyroda"
+      ],
+      "color": "green",
+      "color_hex": "#5BB36A",
+      "version": 1,
+      "updated_at": "2026-11-27T09:01:03.348561",
+      "license": "MIT",
+      "file": "svg/owady/jajeczka-motyla-na-lisciu.svg",
+      "bytes": 1318,
+      "sha256": "6c991a2f946cf61a34c25036adb75af51b238d9c43aad3e85a2ae2c0479cde51",
+      "page_url": "https://pastelki.club/en/image/jajeczka-motyla-na-lisciu",
+      "raw_url": "https://raw.githubusercontent.com/tobob/pastelki-assets/main/svg/owady/jajeczka-motyla-na-lisciu.svg",
+      "site_svg_url": "https://pastelki.club/files/jajeczka-motyla-na-lisciu/jajeczka-motyla-na-lisciu-v1.svg",
+      "site_png_url": "https://pastelki.club/files/jajeczka-motyla-na-lisciu/jajeczka-motyla-na-lisciu-v1.png"
+    },
+    {
       "slug": "komar",
       "title": {
         "pl": "komar",
@@ -12339,6 +12468,49 @@
       "raw_url": "https://raw.githubusercontent.com/tobob/pastelki-assets/main/svg/owady/mala-pszczolka-w-ulu.svg",
       "site_svg_url": "https://pastelki.club/files/mala-pszczolka-w-ulu/mala-pszczolka-w-ulu-v1.svg",
       "site_png_url": "https://pastelki.club/files/mala-pszczolka-w-ulu/mala-pszczolka-w-ulu-v1.png"
+    },
+    {
+      "slug": "modraszek",
+      "title": {
+        "pl": "modraszek",
+        "en": "common blue butterfly",
+        "de": "Bläuling",
+        "fr": "azuré",
+        "es": "mariposa azul",
+        "it": "licenide azzurra",
+        "pt": "borboleta azul",
+        "nl": "icarusblauwtje",
+        "uk": "синявець",
+        "cs": "modrásek",
+        "sk": "modráčik",
+        "sv": "blåvinge",
+        "ro": "fluture albastru",
+        "hu": "boglárka",
+        "tr": "mavi kelebek",
+        "ja": "ヒメシジミ",
+        "zh": "蓝色小蝴蝶"
+      },
+      "category": "owady",
+      "tags_pl": [
+        "motyl",
+        "modraszek",
+        "owad",
+        "skrzydła",
+        "błękitny",
+        "łąka"
+      ],
+      "color": "blue",
+      "color_hex": "#4A90D9",
+      "version": 2,
+      "updated_at": "2026-11-27T11:57:11.114938",
+      "license": "MIT",
+      "file": "svg/owady/modraszek.svg",
+      "bytes": 3137,
+      "sha256": "c176dcf9d2db30972074ff86720e1fa7bdbf524d8991cd25fbca6bea8b12c3a2",
+      "page_url": "https://pastelki.club/en/image/modraszek",
+      "raw_url": "https://raw.githubusercontent.com/tobob/pastelki-assets/main/svg/owady/modraszek.svg",
+      "site_svg_url": "https://pastelki.club/files/modraszek/modraszek-v2.svg",
+      "site_png_url": "https://pastelki.club/files/modraszek/modraszek-v2.png"
     },
     {
       "slug": "motyl-na-kwiatku",
@@ -12594,6 +12766,91 @@
       "raw_url": "https://raw.githubusercontent.com/tobob/pastelki-assets/main/svg/owady/pajak.svg",
       "site_svg_url": "https://pastelki.club/files/pajak/pajak-v4.svg",
       "site_png_url": "https://pastelki.club/files/pajak/pajak-v4.png"
+    },
+    {
+      "slug": "paz-krolowej",
+      "title": {
+        "pl": "paź królowej",
+        "en": "swallowtail butterfly",
+        "de": "Schwalbenschwanz",
+        "fr": "machaon",
+        "es": "mariposa cola de golondrina",
+        "it": "macaone",
+        "pt": "borboleta rabo-de-andorinha",
+        "nl": "koninginnenpage",
+        "uk": "махаон",
+        "cs": "otakárek fenyklový",
+        "sk": "vidlochvost feniklový",
+        "sv": "makaonfjäril",
+        "ro": "fluture rândunică",
+        "hu": "fecskefarkú lepke",
+        "tr": "kırlangıç kuyruklu kelebek",
+        "ja": "キアゲハ",
+        "zh": "黄凤蝶"
+      },
+      "category": "owady",
+      "tags_pl": [
+        "motyl",
+        "paź królowej",
+        "owady",
+        "skrzydła",
+        "żółty"
+      ],
+      "color": "yellow",
+      "color_hex": "#F6C945",
+      "version": 2,
+      "updated_at": "2026-11-27T11:57:09.616354",
+      "license": "MIT",
+      "file": "svg/owady/paz-krolowej.svg",
+      "bytes": 2840,
+      "sha256": "846b427d720c4b3ffa857a97cd0f5c698173eb891159c06c2bd6c213e8be72fa",
+      "page_url": "https://pastelki.club/en/image/paz-krolowej",
+      "raw_url": "https://raw.githubusercontent.com/tobob/pastelki-assets/main/svg/owady/paz-krolowej.svg",
+      "site_svg_url": "https://pastelki.club/files/paz-krolowej/paz-krolowej-v2.svg",
+      "site_png_url": "https://pastelki.club/files/paz-krolowej/paz-krolowej-v2.png"
+    },
+    {
+      "slug": "poczwarka-motyla",
+      "title": {
+        "pl": "poczwarka motyla",
+        "en": "Butterfly chrysalis",
+        "de": "Schmetterlingspuppe",
+        "fr": "Chrysalide de papillon",
+        "es": "Crisálida de mariposa",
+        "it": "Crisalide di farfalla",
+        "pt": "Crisálida de borboleta",
+        "nl": "Vlinderpop",
+        "uk": "Лялечка метелика",
+        "cs": "Kukla motýla",
+        "sk": "Kukla motýľa",
+        "sv": "Fjärilspuppa",
+        "ro": "Crisalida fluturelui",
+        "hu": "Lepkebáb",
+        "tr": "Kelebek pupası",
+        "ja": "チョウのさなぎ",
+        "zh": "蝴蝶的蛹"
+      },
+      "category": "owady",
+      "tags_pl": [
+        "poczwarka",
+        "motyl",
+        "owad",
+        "łodyżka",
+        "metamorfoza",
+        "złote kropki"
+      ],
+      "color": "green",
+      "color_hex": "#5BB36A",
+      "version": 1,
+      "updated_at": "2026-11-27T09:01:07.214724",
+      "license": "MIT",
+      "file": "svg/owady/poczwarka-motyla.svg",
+      "bytes": 1197,
+      "sha256": "2004d56d7bb47968ba476da943823b36dc48a30581d85a1b3957ba98bb17bbf5",
+      "page_url": "https://pastelki.club/en/image/poczwarka-motyla",
+      "raw_url": "https://raw.githubusercontent.com/tobob/pastelki-assets/main/svg/owady/poczwarka-motyla.svg",
+      "site_svg_url": "https://pastelki.club/files/poczwarka-motyla/poczwarka-motyla-v1.svg",
+      "site_png_url": "https://pastelki.club/files/poczwarka-motyla/poczwarka-motyla-v1.png"
     },
     {
       "slug": "pszczolka-na-kwiatku",
@@ -18359,16 +18616,16 @@
       "tags_pl": [],
       "color": "",
       "color_hex": "",
-      "version": 2,
-      "updated_at": "2026-11-17T17:00:40.348218",
+      "version": 3,
+      "updated_at": "2026-11-27T11:57:08.835054",
       "license": "MIT",
       "file": "svg/zwierzeta/butterfly.svg",
-      "bytes": 2180,
-      "sha256": "bad9388fcadb167a03abd72ee864affdd38fee6d792a1a8c1dc0fccf297a289f",
+      "bytes": 2212,
+      "sha256": "695f260b469c8598e4d5aaa0cae9709bfc35aa7a708ab966fe529f264791edc1",
       "page_url": "https://pastelki.club/en/image/butterfly",
       "raw_url": "https://raw.githubusercontent.com/tobob/pastelki-assets/main/svg/zwierzeta/butterfly.svg",
-      "site_svg_url": "https://pastelki.club/files/butterfly/butterfly-v2.svg",
-      "site_png_url": "https://pastelki.club/files/butterfly/butterfly-v2.png"
+      "site_svg_url": "https://pastelki.club/files/butterfly/butterfly-v3.svg",
+      "site_png_url": "https://pastelki.club/files/butterfly/butterfly-v3.png"
     },
     {
       "slug": "cat",
@@ -20460,6 +20717,49 @@
       "raw_url": "https://raw.githubusercontent.com/tobob/pastelki-assets/main/svg/zwierzeta/zolna.svg",
       "site_svg_url": "https://pastelki.club/files/zolna/zolna-v1.svg",
       "site_png_url": "https://pastelki.club/files/zolna/zolna-v1.png"
+    },
+    {
+      "slug": "zuraw",
+      "title": {
+        "pl": "żuraw",
+        "en": "crane",
+        "de": "Kranich",
+        "fr": "grue",
+        "es": "grulla",
+        "it": "gru",
+        "pt": "grou",
+        "nl": "kraanvogel",
+        "uk": "журавель",
+        "cs": "jeřáb",
+        "sk": "žeriav",
+        "sv": "trana",
+        "ro": "cocor",
+        "hu": "daru",
+        "tr": "turna",
+        "ja": "ツル",
+        "zh": "鹤"
+      },
+      "category": "zwierzeta",
+      "tags_pl": [
+        "żuraw",
+        "ptak",
+        "szary ptak",
+        "długa szyja",
+        "długie nogi",
+        "zwierzęta"
+      ],
+      "color": "grey",
+      "color_hex": "#A3A7AE",
+      "version": 3,
+      "updated_at": "2026-11-27T09:04:47.522936",
+      "license": "MIT",
+      "file": "svg/zwierzeta/zuraw.svg",
+      "bytes": 1473,
+      "sha256": "3da1a6c45f5f1fe985e9d0bc001bcc7837ce45d6303945bc88a1d3a4fc065bd9",
+      "page_url": "https://pastelki.club/en/image/zuraw",
+      "raw_url": "https://raw.githubusercontent.com/tobob/pastelki-assets/main/svg/zwierzeta/zuraw.svg",
+      "site_svg_url": "https://pastelki.club/files/zuraw/zuraw-v3.svg",
+      "site_png_url": "https://pastelki.club/files/zuraw/zuraw-v3.png"
     },
     {
       "slug": "zyrafa-maluch-z-kokardka",

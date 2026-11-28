@@ -139,9 +139,9 @@ python3 scripts/sync.py --check   # only report differences
 
 <!-- gallery:start -->
 
-**490 pictures in 18 categories.** Click a category for every picture with its name and download links.
+**497 pictures in 18 categories.** Click a category for every picture with its name and download links.
 
-**[Animals](gallery/zwierzeta.md)** · Zwierzęta · 62
+**[Animals](gallery/zwierzeta.md)** · Zwierzęta · 63
 
 <img src="svg/zwierzeta/alpaka.svg" width="64" alt="Alpaca"> <img src="svg/zwierzeta/bazant.svg" width="64" alt="Pheasant"> <img src="svg/zwierzeta/bear.svg" width="64" alt="Bear"> <img src="svg/zwierzeta/bee.svg" width="64" alt="Bee"> <img src="svg/zwierzeta/bird.svg" width="64" alt="Bird"> <img src="svg/zwierzeta/bobr.svg" width="64" alt="Beaver"> <img src="svg/zwierzeta/bocian.svg" width="64" alt="Stork"> <img src="svg/zwierzeta/butterfly.svg" width="64" alt="Butterfly">
 
@@ -157,7 +157,7 @@ python3 scripts/sync.py --check   # only report differences
 
 <img src="svg/jedzenie/ananas.svg" width="64" alt="Pineapple"> <img src="svg/jedzenie/ananas-w-okularach.svg" width="64" alt="Pineapple with sunglasses"> <img src="svg/jedzenie/apple.svg" width="64" alt="Apple"> <img src="svg/jedzenie/banana.svg" width="64" alt="Banana"> <img src="svg/jedzenie/blueberries.svg" width="64" alt="Blueberries"> <img src="svg/jedzenie/bone.svg" width="64" alt="Bone"> <img src="svg/jedzenie/bread.svg" width="64" alt="Bread"> <img src="svg/jedzenie/brokul.svg" width="64" alt="Broccoli">
 
-**[Nature & weather](gallery/natura.md)** · Natura i pogoda · 38
+**[Nature & weather](gallery/natura.md)** · Natura i pogoda · 39
 
 <img src="svg/natura/acorn.svg" width="64" alt="Acorn"> <img src="svg/natura/cebulka-tulipana.svg" width="64" alt="Tulip bulb"> <img src="svg/natura/cloud.svg" width="64" alt="Cloud"> <img src="svg/natura/dmuchawiec.svg" width="64" alt="Dandelion clock"> <img src="svg/natura/flower.svg" width="64" alt="Flower"> <img src="svg/natura/iceberg.svg" width="64" alt="Iceberg"> <img src="svg/natura/jablon-jesien.svg" width="64" alt="Apple tree in autumn"> <img src="svg/natura/jablon-wiosna.svg" width="64" alt="Apple tree in spring">
 
@@ -185,9 +185,9 @@ python3 scripts/sync.py --check   # only report differences
 
 <img src="svg/morze/kalamarnica.svg" width="64" alt="Squid"> <img src="svg/morze/kalamarnica-w-okularach.svg" width="64" alt="Squid with glasses"> <img src="svg/morze/konik-morski.svg" width="64" alt="Seahorse"> <img src="svg/morze/kotwica.svg" width="64" alt="Anchor"> <img src="svg/morze/krewetka.svg" width="64" alt="Shrimp"> <img src="svg/morze/lodz-podwodna.svg" width="64" alt="Submarine"> <img src="svg/morze/meduza.svg" width="64" alt="Jellyfish"> <img src="svg/morze/mewa.svg" width="64" alt="Seagull">
 
-**[Bugs & insects](gallery/owady.md)** · Owady i robaczki · 26
+**[Bugs & insects](gallery/owady.md)** · Owady i robaczki · 31
 
-<img src="svg/owady/biedronka-na-lisciu.svg" width="64" alt="Ladybug on a leaf"> <img src="svg/owady/bielinek.svg" width="64" alt="Cabbage white butterfly"> <img src="svg/owady/cykada-na-lisciu.svg" width="64" alt="Cicada on a leaf"> <img src="svg/owady/cytrynek.svg" width="64" alt="Brimstone butterfly"> <img src="svg/owady/gasienica.svg" width="64" alt="Caterpillar"> <img src="svg/owady/gasienica-na-galazce.svg" width="64" alt="Caterpillar on a twig"> <img src="svg/owady/komar.svg" width="64" alt="Mosquito"> <img src="svg/owady/konik-polny.svg" width="64" alt="Grasshopper">
+<img src="svg/owady/biedronka-na-lisciu.svg" width="64" alt="Ladybug on a leaf"> <img src="svg/owady/bielinek.svg" width="64" alt="Cabbage white butterfly"> <img src="svg/owady/cykada-na-lisciu.svg" width="64" alt="Cicada on a leaf"> <img src="svg/owady/cytrynek.svg" width="64" alt="Brimstone butterfly"> <img src="svg/owady/gasienica.svg" width="64" alt="Caterpillar"> <img src="svg/owady/gasienica-na-galazce.svg" width="64" alt="Caterpillar on a twig"> <img src="svg/owady/gasienica-pawika.svg" width="64" alt="Caterpillar on a leaf"> <img src="svg/owady/jajeczka-motyla-na-lisciu.svg" width="64" alt="Butterfly eggs on a leaf">
 
 **[Dinosaurs](gallery/dinozaury.md)** · Dinozaury · 12
 
